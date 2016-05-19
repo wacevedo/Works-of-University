@@ -1,0 +1,25 @@
+Exists de las tablas Producto, venta y una tabla resultante Venta producto
+
+Select * 
+From Producto P
+Where Not Exists (  /*dice si el producto que no existe en ventaproducto*/
+Select * 
+From VentaProducto vp 
+Where vp.id_producto = P.id_producto);
+
+Select P.Tipo,count(P.id_producto) 
+From Producto P
+Where Not Exists (         /*dice cuantos productos de un tipo no */
+Select *                     /*existe en VentaProducto*/
+From VentaProducto vp 
+Where vp.id_producto s = P.id_producto)
+Group by Tipo;
+
+Select P.Tipo,count(P.id_producto) /*lo mismo pero entre dos fechas*/
+From Producto P
+Where Not Exists (
+Select *
+From VentaProducto VP, Venta V
+Where V.Idventa = VP.Idventa And VP.id_producto = P.id_producto 
+And V.Fecha_Venta between'01/06/2014' And '30/06/2014')
+Group by P.Tipo;

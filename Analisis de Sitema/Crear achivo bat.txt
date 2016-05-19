@@ -1,0 +1,20 @@
+Microsoft Window
+ys [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\Willson Acevedo>cd desktop
+
+C:\Users\Willson Acevedo\Desktop>md prueba
+
+C:\Users\Willson Acevedo\Desktop>cd prueba
+
+C:\Users\Willson Acevedo\Desktop\prueba>copy con prueba.bat
+@echo off
+echo Se ejecutara la calculadora
+pause\null
+echo presione ahora una tecla para continuar!
+start calc.exe
+exit^Z
+        1 file(s) copied.
+
+C:\Users\Willson Acevedo\Desktop\prueba>

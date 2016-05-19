@@ -1,0 +1,28 @@
+Sincronizacion
+cajero
+Sychronized();
+wait: notilfied
+inanicion- suspende el blockeo
+priorizacion - setpriority
+
+para el jueves 30
+
+invetigation
+hilos
+-carcat
+-start
+-run
+-thread
+-run
+-stop
+-sleep
+-wait
+-notify: All
+-Sychronized: a nivel de metodo, class y var 
+problemas de Sychronized
+-interblockeo
+-inanicion
+
+java.util.concurrent.semaphore
+acquiere
+

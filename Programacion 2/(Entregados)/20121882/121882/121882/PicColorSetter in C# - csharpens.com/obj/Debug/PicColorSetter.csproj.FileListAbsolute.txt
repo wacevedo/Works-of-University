@@ -1,0 +1,21 @@
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\bin\Debug\PicColorSetter.exe
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\bin\Debug\PicColorSetter.pdb
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\obj\Debug\PicColorSetter.Form1.resources
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\obj\Debug\howto_color_tone.Properties.Resources.resources
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\obj\Debug\PicColorSetter.csproj.GenerateResource.Cache
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\obj\Debug\PicColorSetter.exe
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\obj\Debug\PicColorSetter.pdb
+C:\Users\Gull\Desktop\New folder\obj\Debug\PicColorSetter.exe
+C:\Users\Gull\Desktop\New folder\obj\Debug\PicColorSetter.pdb
+C:\Users\Gull\Desktop\New folder\bin\Debug\PicColorSetter.exe
+C:\Users\Gull\Desktop\New folder\bin\Debug\PicColorSetter.pdb
+C:\Users\Gull\Desktop\New folder\obj\Debug\PicColorSetter.Form1.resources
+C:\Users\Gull\Desktop\New folder\obj\Debug\howto_color_tone.Properties.Resources.resources
+C:\Users\Gull\Desktop\New folder\obj\Debug\PicColorSetter.csproj.GenerateResource.Cache
+F:\Projects\PicColorSetter in C# - csharpens.com\obj\Debug\PicColorSetter.exe
+F:\Projects\PicColorSetter in C# - csharpens.com\obj\Debug\PicColorSetter.pdb
+F:\Projects\PicColorSetter in C# - csharpens.com\bin\Debug\PicColorSetter.exe
+F:\Projects\PicColorSetter in C# - csharpens.com\bin\Debug\PicColorSetter.pdb
+F:\Projects\PicColorSetter in C# - csharpens.com\obj\Debug\PicColorSetter.Form1.resources
+F:\Projects\PicColorSetter in C# - csharpens.com\obj\Debug\howto_color_tone.Properties.Resources.resources
+F:\Projects\PicColorSetter in C# - csharpens.com\obj\Debug\PicColorSetter.csproj.GenerateResource.Cache

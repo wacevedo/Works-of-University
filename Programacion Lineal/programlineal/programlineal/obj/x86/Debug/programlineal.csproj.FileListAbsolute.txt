@@ -1,0 +1,11 @@
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\bin\Debug\programlineal.exe
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\bin\Debug\programlineal.pdb
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\obj\x86\Debug\MainWindow.baml
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\obj\x86\Debug\App.g.cs
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\obj\x86\Debug\programlineal_MarkupCompile.cache
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\obj\x86\Debug\programlineal.g.resources
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\obj\x86\Debug\programlineal.Properties.Resources.resources
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\obj\x86\Debug\programlineal.csproj.GenerateResource.Cache
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\obj\x86\Debug\programlineal.exe
+C:\Users\Willson Acevedo\Documents\programlineal\programlineal\obj\x86\Debug\programlineal.pdb

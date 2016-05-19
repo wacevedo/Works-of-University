@@ -1,0 +1,7 @@
+G:\20121993\BaseDatosPA\Sesion\bin\Debug\Sesion.dll
+G:\20121993\BaseDatosPA\Sesion\bin\Debug\Sesion.pdb
+G:\20121993\BaseDatosPA\Sesion\bin\Debug\Dominio.dll
+G:\20121993\BaseDatosPA\Sesion\bin\Debug\Dominio.pdb
+G:\20121993\BaseDatosPA\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+G:\20121993\BaseDatosPA\Sesion\obj\Debug\Sesion.dll
+G:\20121993\BaseDatosPA\Sesion\obj\Debug\Sesion.pdb

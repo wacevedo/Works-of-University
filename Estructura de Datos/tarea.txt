@@ -1,0 +1,8 @@
+Listas Doblemente enlazadas
+EF121993
+struct nodo 
+{
+   int dato;
+   struct nodo *siguiente;
+   struct nodo *anterior;
+}

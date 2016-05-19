@@ -1,0 +1,19 @@
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Calculadora\WindowsFormsApplication1\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Calculadora\WindowsFormsApplication1\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Calculadora\WindowsFormsApplication1\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Calculadora\WindowsFormsApplication1\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Acercade.resources
+C:\20130253-20121993\Utilidades\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\20130253-20121993\Utilidades\Calculadora\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

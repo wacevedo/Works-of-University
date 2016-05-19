@@ -1,0 +1,9 @@
+F:\20121993\menu\menu\bin\Debug\menu.exe
+F:\20121993\menu\menu\bin\Debug\menu.pdb
+F:\20121993\menu\menu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\20121993\menu\menu\obj\x86\Debug\menu.exe
+F:\20121993\menu\menu\obj\x86\Debug\menu.pdb
+H:\20121993\menu\menu\obj\x86\Debug\menu.exe
+H:\20121993\menu\menu\obj\x86\Debug\menu.pdb
+G:\20121993\menu\menu\obj\x86\Debug\menu.exe
+G:\20121993\menu\menu\obj\x86\Debug\menu.pdb

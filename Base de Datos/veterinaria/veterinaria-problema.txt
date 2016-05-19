@@ -1,0 +1,52 @@
+Construirel DER correspondiente al siguiente enunciado:
+
+Un veterinario tiene como pacientes animales y como clientes familias.
+Un cliente es un conjunto de personas que suele corresponderse con una familia.
+
+Cada cliente tiene un código, el primer apellido del cabeza de familia, un número de cuenta bancaria
+, una dirección, un teléfono y los nombres y Cédula de las personas correspondientes.
+ No existe límite en el número de personas asociadas a una entidad cliente.
+ Además, una persona puede estar dada de alta en varios clientes 
+(por ejemplo, un hombre que vive con su esposa tiene un gato y como tal pertenece a un cliente, 
+pero también está dado de alta en el cliente asociado con el perro de sus padres).
+
+Los clientes pueden tener varias mascotas,
+ cada mascota tiene un código, un alias, una especie, una raza, color de pelo, fecha de nacimiento aproximada,
+ peso medio del animal en las últimas 10 visitas y el peso actual del animal. Asimismo se guardará un historial médico con
+ cada enfermedad que tuvo y la fecha en la que enfermó.
+
+Adicionalmente cada mascota tiene un calendario de vacunación, en el que se registrará la fecha de cada vacuna, 
+la enfermedad de la que se vacuna.
+
+
+De acuerdo a lo planteado realice lo siguiente:
+
+1.	Verificar si una persona tiene más de una mascota asociada, pero que no sea de la misma familia.
+2.	Ver la cantidad de mascotas que le toca vacuna el mes que viene.
+
+select count(*)
+FROM calendario ca, mascota ma
+WHERE ca.id_mascota=ma.id_mascota 
+AND ca.fecha_vacuna between '01-aug-14' and '31-aug-14';
+
+3.	Verificar que raza(ESPECIE) de animales visita más la veterinaria.
+
+SELECT CA.ESPECIE, COUNT (CA.ESPECIE) //muestra cada especie con su numero de registros
+FROM MASCOTA CA
+GROUP BY(CA.ESPECIE);
+
+4.	Cuales familia tienen más de una mascota.
+
+SELECT CA.APELLIDO, COUNT(CU.ID_MASCOTA)
+FROM CLIENTE CA, MASCOTA CU
+WHERE CA.ID_CLIENTE=CU.ID_CLIENTE
+GROUP BY(CA.APELLIDO)
+HAVING COUNT(CU.ID_MASCOTA)>=2;
+
+5.	Que veterinario atendió más mascotas el mes pasado.
+
+SELECT CA.NOMBRE, COUNT(*)
+FROM VETERINARIO CA, HISTORIAL CU 
+WHERE CA.ID_VETERINARIO=CU.ID_VETERINARIO 
+GROUP BY(CA.NOMBRE);
+ 

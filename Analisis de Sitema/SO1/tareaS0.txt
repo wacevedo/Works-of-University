@@ -1,0 +1,28 @@
+tarea:
+crear archivos xls, xlsx, doc, docx,txt, dsd
+
+semana siguiente:
+
+Archivo .bat
+que es un archivo .bat?
+
+\comando para abrir
+\abri explorer
+
+jueves 20
+archivo .bat
+-subir maquina
+-reiniciar
+-apague
+
+jueves 13
+archivo .bat
+beneficio, desventajas
+importancias
+hacer backup
+-copiar un archivo en otra ruta
+
+
+jueves 13 no hay clase
+vienes 14 segundo parcial
+ jueves 27 examen final de lab

@@ -1,0 +1,32 @@
+C:\mta\programacion2\programacion2\bin\Debug\programacion2.exe
+C:\mta\programacion2\programacion2\bin\Debug\programacion2.pdb
+C:\mta\programacion2\programacion2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\mta\programacion2\programacion2\obj\x86\Debug\MainWindow.baml
+C:\mta\programacion2\programacion2\obj\x86\Debug\MainWindow.g.cs
+C:\mta\programacion2\programacion2\obj\x86\Debug\App.g.cs
+C:\mta\programacion2\programacion2\obj\x86\Debug\programacion2_MarkupCompile.cache
+C:\mta\programacion2\programacion2\obj\x86\Debug\programacion2.g.resources
+C:\mta\programacion2\programacion2\obj\x86\Debug\programacion2.Properties.Resources.resources
+C:\mta\programacion2\programacion2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\mta\programacion2\programacion2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\mta\programacion2\programacion2\obj\x86\Debug\programacion2.exe
+C:\mta\programacion2\programacion2\obj\x86\Debug\programacion2.pdb
+C:\mta\programacion2\programacion2\obj\x86\Debug\cliente1.baml
+C:\mta\programacion2\programacion2\obj\x86\Debug\cliente1.g.cs
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\programacion2.exe
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\programacion2.pdb
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\bin\Debug\programacion2.exe
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\bin\Debug\programacion2.pdb
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\cliente1.baml
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\MainWindow.baml
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\cliente1.g.cs
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\App.g.cs
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\programacion2_MarkupCompile.cache
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\programacion2.g.resources
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\programacion2.Properties.Resources.resources
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\programacion2.csproj.GenerateResource.Cache
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\Compraform.baml
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\VentaForm.baml
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\Compraform.g.cs
+C:\Users\Willson Acevedo\Desktop\programacion2\programacion2\obj\x86\Debug\VentaForm.g.cs

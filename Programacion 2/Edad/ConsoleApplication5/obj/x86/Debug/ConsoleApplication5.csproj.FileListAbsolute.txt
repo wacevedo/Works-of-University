@@ -1,0 +1,9 @@
+G:\20121993\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+G:\20121993\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+G:\20121993\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+G:\20121993\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+F:\20121993 program2\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+F:\20121993 program2\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+F:\20121993 program2\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+F:\20121993 program2\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+F:\20121993 program2\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ResolveAssemblyReference.cache

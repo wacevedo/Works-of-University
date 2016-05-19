@@ -1,0 +1,12 @@
+D:\20121993 program2\crear clase\crear clase\bin\Debug\crear clase.exe
+D:\20121993 program2\crear clase\crear clase\bin\Debug\crear clase.pdb
+D:\20121993 program2\crear clase\crear clase\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\20121993 program2\crear clase\crear clase\obj\x86\Debug\crear clase.exe
+D:\20121993 program2\crear clase\crear clase\obj\x86\Debug\crear clase.pdb
+F:\20121993 program2\crear clase\crear clase\obj\x86\Debug\crear clase.exe
+F:\20121993 program2\crear clase\crear clase\obj\x86\Debug\crear clase.pdb
+F:\20121993 program2\crear clase\crear clase\bin\Debug\crear clase.exe
+F:\20121993 program2\crear clase\crear clase\bin\Debug\crear clase.pdb
+F:\20121993 program2\crear clase\crear clase\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\20121993 program2\crear clase\crear clase\obj\x86\Debug\crear clase.exe
+H:\20121993 program2\crear clase\crear clase\obj\x86\Debug\crear clase.pdb

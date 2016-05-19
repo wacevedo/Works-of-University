@@ -1,0 +1,5 @@
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Release\ResolveAssemblyReference.cache
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Release\Aforge_Web_Cam.VideoForm.resources
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Release\Aforge_Web_Cam.Properties.Resources.resources
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Release\GenerateResource.read.1.tlog
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Release\GenerateResource.write.1.tlog

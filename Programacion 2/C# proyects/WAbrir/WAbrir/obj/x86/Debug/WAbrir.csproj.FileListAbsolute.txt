@@ -1,0 +1,18 @@
+C:\WAbrir\WAbrir\bin\Debug\WAbrir.exe
+C:\WAbrir\WAbrir\bin\Debug\WAbrir.pdb
+C:\WAbrir\WAbrir\obj\x86\Debug\WAbrir.Properties.Resources.resources
+C:\WAbrir\WAbrir\obj\x86\Debug\WAbrir.csproj.GenerateResource.Cache
+C:\WAbrir\WAbrir\obj\x86\Debug\WAbrir.exe
+C:\WAbrir\WAbrir\obj\x86\Debug\WAbrir.pdb
+C:\WAbrir\WAbrir\obj\x86\Debug\WAbrir.WForm.resources
+C:\WAbrir\WAbrir\obj\x86\Debug\WAbrir.csprojResolveAssemblyReference.cache
+C:\WAbrir\WAbrir\obj\x86\Debug\WAbrir.Form1.resources
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\WAbrir\obj\x86\Debug\WAbrir.exe
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\WAbrir\obj\x86\Debug\WAbrir.pdb
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\WAbrir\bin\Debug\WAbrir.exe
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\WAbrir\bin\Debug\WAbrir.pdb
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\WAbrir\obj\x86\Debug\WAbrir.csprojResolveAssemblyReference.cache
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\WAbrir\obj\x86\Debug\WAbrir.Form1.resources
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\WAbrir\obj\x86\Debug\WAbrir.WForm.resources
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\WAbrir\obj\x86\Debug\WAbrir.Properties.Resources.resources
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\WAbrir\obj\x86\Debug\WAbrir.csproj.GenerateResource.Cache

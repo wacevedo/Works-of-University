@@ -1,0 +1,10 @@
+C:\mta\PlantillaBase de datos\Entidades\bin\Debug\Entidades.dll
+C:\mta\PlantillaBase de datos\Entidades\bin\Debug\Entidades.pdb
+C:\mta\PlantillaBase de datos\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\mta\PlantillaBase de datos\Entidades\obj\Debug\Entidades.dll
+C:\mta\PlantillaBase de datos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\Entidades\bin\Debug\Entidades.dll
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\Entidades\obj\Debug\Entidades.dll
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\Entidades\obj\Debug\Entidades.pdb

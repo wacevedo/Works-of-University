@@ -1,0 +1,8 @@
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeImagenes\EditorDeImagenes\bin\Debug\EditorDeImagenes.exe
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeImagenes\EditorDeImagenes\bin\Debug\EditorDeImagenes.pdb
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeImagenes\EditorDeImagenes\obj\x86\Debug\EditorDeImagenes.Form1.resources
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeImagenes\EditorDeImagenes\obj\x86\Debug\EditorDeImagenes.Properties.Resources.resources
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeImagenes\EditorDeImagenes\obj\x86\Debug\EditorDeImagenes.csproj.GenerateResource.Cache
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeImagenes\EditorDeImagenes\obj\x86\Debug\EditorDeImagenes.exe
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeImagenes\EditorDeImagenes\obj\x86\Debug\EditorDeImagenes.pdb
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeImagenes\EditorDeImagenes\obj\x86\Debug\EditorDeImagenes.csprojResolveAssemblyReference.cache

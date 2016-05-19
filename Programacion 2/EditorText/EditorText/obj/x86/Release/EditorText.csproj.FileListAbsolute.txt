@@ -1,0 +1,9 @@
+I:\20121993\EditorText\EditorText\bin\Release\EditorText.exe
+I:\20121993\EditorText\EditorText\bin\Release\EditorText.pdb
+I:\20121993\EditorText\EditorText\obj\x86\Release\ResolveAssemblyReference.cache
+I:\20121993\EditorText\EditorText\obj\x86\Release\EditorText.Form1.resources
+I:\20121993\EditorText\EditorText\obj\x86\Release\EditorText.Properties.Resources.resources
+I:\20121993\EditorText\EditorText\obj\x86\Release\GenerateResource.read.1.tlog
+I:\20121993\EditorText\EditorText\obj\x86\Release\GenerateResource.write.1.tlog
+I:\20121993\EditorText\EditorText\obj\x86\Release\EditorText.exe
+I:\20121993\EditorText\EditorText\obj\x86\Release\EditorText.pdb

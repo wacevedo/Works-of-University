@@ -1,0 +1,31 @@
+G:\Navegador Web\Navegador Web\Navegador Web\bin\Debug\Navegador Web.exe
+G:\Navegador Web\Navegador Web\Navegador Web\bin\Debug\Navegador Web.pdb
+G:\Navegador Web\Navegador Web\Navegador Web\obj\x86\Debug\Navegador_Web.Form1.resources
+G:\Navegador Web\Navegador Web\Navegador Web\obj\x86\Debug\Navegador_Web.Properties.Resources.resources
+G:\Navegador Web\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.csproj.GenerateResource.Cache
+G:\Navegador Web\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.exe
+G:\Navegador Web\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Navegador Web\Navegador Web\bin\Debug\Navegador Web.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Navegador Web\Navegador Web\bin\Debug\Navegador Web.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Navegador Web\Navegador Web\obj\x86\Debug\Navegador_Web.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Navegador Web\Navegador Web\obj\x86\Debug\Navegador_Web.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Navegador Web\Navegador Web\bin\Debug\Navegador Web.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Navegador Web\Navegador Web\bin\Debug\Navegador Web.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Navegador Web\Navegador Web\obj\x86\Debug\Navegador_Web.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Navegador Web\Navegador Web\obj\x86\Debug\Navegador_Web.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.csproj.GenerateResource.Cache
+C:\20130253\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.exe
+C:\20130253\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.pdb
+C:\20130253\Navegador Web\Navegador Web\bin\Debug\Navegador Web.exe
+C:\20130253\Navegador Web\Navegador Web\bin\Debug\Navegador Web.pdb
+C:\20130253\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.csprojResolveAssemblyReference.cache
+C:\20130253\Navegador Web\Navegador Web\obj\x86\Debug\Navegador_Web.Form1.resources
+C:\20130253\Navegador Web\Navegador Web\obj\x86\Debug\Navegador_Web.Properties.Resources.resources
+C:\20130253\Navegador Web\Navegador Web\obj\x86\Debug\Navegador Web.csproj.GenerateResource.Cache

@@ -1,0 +1,132 @@
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.Form1.resources
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.Properties.Resources.resources
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.csproj.GenerateResource.Cache
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\bin\Debug\winmaq_player.exe
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\bin\Debug\winmaq_player.pdb
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\bin\Debug\Interop.WMPLib.dll
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\bin\Debug\AxInterop.WMPLib.dll
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.exe
+D:\MIS PROGRAMAS EN C#\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.exe
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\bin\Debug\winmaq_player.exe
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\bin\Debug\winmaq_player.pdb
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.Form1.resources
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.Properties.Resources.resources
+C:\Users\Bianny G\Desktop\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.csproj.GenerateResource.Cache
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.exe
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\bin\Debug\winmaq_player.exe
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\bin\Debug\winmaq_player.pdb
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.Form1.resources
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.Properties.Resources.resources
+C:\Users\Bianny G\Desktop\Programacion ll\Proyectos de Programacion II\winmaq_player\winmaq_player\obj\x86\Debug\winmaq_player.csproj.GenerateResource.Cache
+C:\Users\Junior Sants\Desktop\proyectos en c#\Proyectos de Programacion II\Proyectos de Programacion II\my-reproductor\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Junior Sants\Desktop\proyectos en c#\Proyectos de Programacion II\Proyectos de Programacion II\my-reproductor\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Junior Sants\Desktop\proyectos en c#\Proyectos de Programacion II\Proyectos de Programacion II\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+C:\Users\Junior Sants\Desktop\proyectos en c#\Proyectos de Programacion II\Proyectos de Programacion II\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.exe
+C:\Users\Junior Sants\Desktop\proyectos en c#\Proyectos de Programacion II\Proyectos de Programacion II\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.exe
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\bin\Debug\winmaq_player.exe
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\bin\Debug\winmaq_player.pdb
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\bin\Debug\Interop.WMPLib.dll
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.Form1.resources
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.Properties.Resources.resources
+C:\Users\LARISSA\Desktop\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.csproj.GenerateResource.Cache
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.exe
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\reprodutor\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.exe
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\bin\Debug\winmaq_player.exe
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\bin\Debug\winmaq_player.pdb
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\bin\Debug\Interop.WMPLib.dll
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.Properties.Resources.resources
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.csproj.GenerateResource.Cache
+C:\Users\LARISSA\Desktop\PROYECTOS WINDOWSFORMS\my-reproductor\winmaq_player\obj\x86\Debug\winmaq_player.MP3.resources
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.exe
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\bin\Debug\winmaq_player.exe
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\bin\Debug\winmaq_player.pdb
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.MP3.resources
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.Properties.Resources.resources
+C:\Users\Jex\Desktop\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csproj.GenerateResource.Cache
+C:\Users\Jex\Documents\Visual Studio 2012\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Jex\Documents\Visual Studio 2012\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Jex\Documents\Visual Studio 2012\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+C:\Users\Jex\Documents\Visual Studio 2012\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.exe
+C:\Users\Jex\Documents\Visual Studio 2012\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\bin\Debug\winmaq_player.exe
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\bin\Debug\winmaq_player.pdb
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\bin\Debug\Interop.WMPLib.dll
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csprojResolveAssemblyReference.cache
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.MP3.resources
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.Properties.Resources.resources
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csproj.GenerateResource.Cache
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.exe
+C:\Users\avier\Desktop\Projects\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+H:\MP3PLAYER\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+H:\MP3PLAYER\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+H:\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.exe
+H:\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+I:\20121993 program2\MP3PLAYER\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+I:\20121993 program2\MP3PLAYER\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+I:\20121993 program2\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+I:\20121993 program2\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.exe
+I:\20121993 program2\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+I:\20121993 program2\MP3PLAYER\winmaq_player\bin\Debug\winmaq_player.exe
+I:\20121993 program2\MP3PLAYER\winmaq_player\bin\Debug\winmaq_player.pdb
+I:\20121993 program2\MP3PLAYER\winmaq_player\bin\Debug\Interop.WMPLib.dll
+I:\20121993 program2\MP3PLAYER\winmaq_player\bin\Debug\AxInterop.WMPLib.dll
+I:\20121993 program2\MP3PLAYER\winmaq_player\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\20121993 program2\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.MP3.resources
+I:\20121993 program2\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.Properties.Resources.resources
+I:\20121993 program2\MP3PLAYER\winmaq_player\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\20121993 program2\MP3PLAYER\winmaq_player\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\obj\x86\Debug\Interop.WMPLib.dll
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csproj.ResolveComReference.cache
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.exe
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.pdb
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\bin\Debug\winmaq_player.exe
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\bin\Debug\winmaq_player.pdb
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\bin\Debug\Interop.WMPLib.dll
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\bin\Debug\AxInterop.WMPLib.dll
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csprojResolveAssemblyReference.cache
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.MP3.resources
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.Properties.Resources.resources
+G:\20121993\(Ejemplos)\MP3PLAYER\winmaq_player\obj\x86\Debug\winmaq_player.csproj.GenerateResource.Cache

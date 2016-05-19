@@ -1,0 +1,12 @@
+F:\Projects\Mp3player\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Projects\Mp3player\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Projects\Mp3player\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+F:\Projects\Mp3player\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+F:\Projects\Mp3player\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+F:\Projects\Mp3player\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Projects\Mp3player\WindowsFormsApplication1\obj\x86\Debug\Reproductor.csproj.ResolveComReference.cache
+F:\Projects\Mp3player\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Projects\Mp3player\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Projects\Mp3player\WindowsFormsApplication1\obj\x86\Debug\Reproductor.csproj.GenerateResource.Cache
+F:\Projects\Mp3player\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\Projects\Mp3player\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

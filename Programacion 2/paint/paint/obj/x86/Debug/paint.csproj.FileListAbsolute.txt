@@ -1,0 +1,3 @@
+G:\20121993\paint\paint\obj\x86\Debug\paint.Form1.resources
+G:\20121993\paint\paint\obj\x86\Debug\paint.Properties.Resources.resources
+G:\20121993\paint\paint\obj\x86\Debug\paint.csproj.GenerateResource.Cache

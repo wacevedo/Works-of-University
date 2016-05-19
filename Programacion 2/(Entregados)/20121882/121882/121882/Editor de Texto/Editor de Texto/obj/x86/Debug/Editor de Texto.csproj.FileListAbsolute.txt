@@ -1,0 +1,33 @@
+C:\Users\Jimmy Lora\AppData\Local\Temporary Projects\Editor de Texto\bin\Debug\Editor de Texto.exe
+C:\Users\Jimmy Lora\AppData\Local\Temporary Projects\Editor de Texto\bin\Debug\Editor de Texto.pdb
+C:\Users\Jimmy Lora\AppData\Local\Temporary Projects\Editor de Texto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy Lora\AppData\Local\Temporary Projects\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Form1.resources
+C:\Users\Jimmy Lora\AppData\Local\Temporary Projects\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Properties.Resources.resources
+C:\Users\Jimmy Lora\AppData\Local\Temporary Projects\Editor de Texto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jimmy Lora\AppData\Local\Temporary Projects\Editor de Texto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jimmy Lora\AppData\Local\Temporary Projects\Editor de Texto\obj\x86\Debug\Editor de Texto.exe
+C:\Users\Jimmy Lora\AppData\Local\Temporary Projects\Editor de Texto\obj\x86\Debug\Editor de Texto.pdb
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.exe
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.pdb
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.exe
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.pdb
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Form1.resources
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Properties.Resources.resources
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Visual C#\EXAMEN\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.exe
+F:\Visual C#\EXAMEN\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.pdb
+F:\Visual C#\EXAMEN\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.exe
+F:\Visual C#\EXAMEN\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.pdb
+F:\Visual C#\EXAMEN\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Form1.resources
+F:\Visual C#\EXAMEN\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Properties.Resources.resources
+F:\Visual C#\EXAMEN\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.csprojResolveAssemblyReference.cache

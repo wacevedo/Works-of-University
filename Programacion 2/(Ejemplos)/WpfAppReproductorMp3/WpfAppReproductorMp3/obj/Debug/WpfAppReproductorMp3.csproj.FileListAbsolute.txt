@@ -1,0 +1,11 @@
+C:\Users\Luis\Documents\Expression\Blend 4\Tutoriales\WpfAppReproductorMp3\WpfAppReproductorMp3\bin\Debug\WpfAppReproductorMp3.exe
+C:\Users\Luis\Documents\Expression\Blend 4\Tutoriales\WpfAppReproductorMp3\WpfAppReproductorMp3\bin\Debug\WpfAppReproductorMp3.pdb
+C:\Users\Luis\Documents\Expression\Blend 4\Tutoriales\WpfAppReproductorMp3\WpfAppReproductorMp3\obj\Debug\MainWindow.baml
+C:\Users\Luis\Documents\Expression\Blend 4\Tutoriales\WpfAppReproductorMp3\WpfAppReproductorMp3\obj\Debug\MainWindow.g.cs
+C:\Users\Luis\Documents\Expression\Blend 4\Tutoriales\WpfAppReproductorMp3\WpfAppReproductorMp3\obj\Debug\App.g.cs
+C:\Users\Luis\Documents\Expression\Blend 4\Tutoriales\WpfAppReproductorMp3\WpfAppReproductorMp3\obj\Debug\WpfAppReproductorMp3_MarkupCompile.cache
+C:\Users\Luis\Documents\Expression\Blend 4\Tutoriales\WpfAppReproductorMp3\WpfAppReproductorMp3\obj\Debug\WpfAppReproductorMp3.g.resources
+C:\Users\Luis\Documents\Expression\Blend 4\Tutoriales\WpfAppReproductorMp3\WpfAppReproductorMp3\obj\Debug\WpfAppReproductorMp3.exe
+C:\Users\Luis\Documents\Expression\Blend 4\Tutoriales\WpfAppReproductorMp3\WpfAppReproductorMp3\obj\Debug\WpfAppReproductorMp3.pdb
+G:\20121993\(Ejemplos)\WpfAppReproductorMp3\WpfAppReproductorMp3\obj\Debug\WpfAppReproductorMp3.exe
+G:\20121993\(Ejemplos)\WpfAppReproductorMp3\WpfAppReproductorMp3\obj\Debug\WpfAppReproductorMp3.pdb

@@ -1,0 +1,32 @@
+C:\mainpaint1\mainpaint1\bin\Debug\mainpaint1.exe
+C:\mainpaint1\mainpaint1\bin\Debug\mainpaint1.pdb
+C:\mainpaint1\mainpaint1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\mainpaint1\mainpaint1\obj\x86\Debug\mainpaint.Form1.resources
+C:\mainpaint1\mainpaint1\obj\x86\Debug\mainpaint.Properties.Resources.resources
+C:\mainpaint1\mainpaint1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\mainpaint1\mainpaint1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\mainpaint1\mainpaint1\obj\x86\Debug\mainpaint1.exe
+C:\mainpaint1\mainpaint1\obj\x86\Debug\mainpaint1.pdb
+E:\Apps\mainpaint1\mainpaint1\obj\x86\Debug\mainpaint1.exe
+E:\Apps\mainpaint1\mainpaint1\obj\x86\Debug\mainpaint1.pdb
+E:\Apps\mainpaint1\mainpaint1\bin\Debug\mainpaint1.exe
+E:\Apps\mainpaint1\mainpaint1\bin\Debug\mainpaint1.pdb
+E:\Apps\mainpaint1\mainpaint1\obj\x86\Debug\mainpaint.Form1.resources
+E:\Apps\mainpaint1\mainpaint1\obj\x86\Debug\mainpaint.Properties.Resources.resources
+E:\Apps\mainpaint1\mainpaint1\obj\x86\Debug\mainpaint1.csproj.GenerateResource.Cache
+C:\Users\AlexWork\Dropbox\Aplicaciones\mainpaint\mainpaint1\obj\x86\Debug\mainpaint1.exe
+C:\Users\AlexWork\Dropbox\Aplicaciones\mainpaint\mainpaint1\obj\x86\Debug\mainpaint1.pdb
+C:\Users\AlexWork\Dropbox\Aplicaciones\mainpaint\mainpaint1\bin\Debug\mainpaint1.exe
+C:\Users\AlexWork\Dropbox\Aplicaciones\mainpaint\mainpaint1\bin\Debug\mainpaint1.pdb
+C:\Users\AlexWork\Dropbox\Aplicaciones\mainpaint\mainpaint1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AlexWork\Dropbox\Aplicaciones\mainpaint\mainpaint1\obj\x86\Debug\mainpaint.Form1.resources
+C:\Users\AlexWork\Dropbox\Aplicaciones\mainpaint\mainpaint1\obj\x86\Debug\mainpaint.Properties.Resources.resources
+C:\Users\AlexWork\Dropbox\Aplicaciones\mainpaint\mainpaint1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AlexWork\Dropbox\Aplicaciones\mainpaint\mainpaint1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Willson Acevedo\Documents\Programacion 2\(Ejemplos)\mainpaint\mainpaint1\obj\x86\Debug\mainpaint1.exe
+C:\Users\Willson Acevedo\Documents\Programacion 2\(Ejemplos)\mainpaint\mainpaint1\obj\x86\Debug\mainpaint1.pdb
+C:\Users\Willson Acevedo\Documents\Programacion 2\(Ejemplos)\mainpaint\mainpaint1\bin\Debug\mainpaint1.exe
+C:\Users\Willson Acevedo\Documents\Programacion 2\(Ejemplos)\mainpaint\mainpaint1\bin\Debug\mainpaint1.pdb
+C:\Users\Willson Acevedo\Documents\Programacion 2\(Ejemplos)\mainpaint\mainpaint1\obj\x86\Debug\mainpaint.Form1.resources
+C:\Users\Willson Acevedo\Documents\Programacion 2\(Ejemplos)\mainpaint\mainpaint1\obj\x86\Debug\mainpaint.Properties.Resources.resources
+C:\Users\Willson Acevedo\Documents\Programacion 2\(Ejemplos)\mainpaint\mainpaint1\obj\x86\Debug\mainpaint1.csproj.GenerateResource.Cache

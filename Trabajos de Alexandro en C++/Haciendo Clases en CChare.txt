@@ -1,0 +1,41 @@
+Crear clase estudiante y desclarar variables.
+
+class estudiante
+
+  public string matricula;
+  public string nombre;
+  public estudiante(string nomber, string matricula);
+   {
+    this.nombre= nombre;
+    this.matricula = matricula;
+
+   }
+
+
+class program
+{
+ static void Main(string[] args)
+
+  {
+
+estudiante estudiante1= new estudiante(¨¨darwin¨, ¨2012-1523¨);
+
+//Console.WriteLine (¨Introducir Matricula¨);
+//estudiante1.matricula = Console.REadline();
+
+//Console.WriteLine (¨Introducir Nombre¨);
+//estudiante1.nombre = Console.Readline();
+
+Console.WriteLine (¨matricula¨ + estudiante1.matricula);
+Console.WriteLine (¨nombre¨ + estudiante1.nombre);
+
+Console.Readkey;
+
+//Private se usara declarar variables que queremos ocultar.
+//Public para que salgan.
+
+  }
+}
+
+Hacer un contructor..
+Vamos para la clase Estudiante..

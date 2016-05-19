@@ -1,0 +1,13 @@
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\ClassLibrary1\bin\Debug\Entidades.dll
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\ClassLibrary1\bin\Debug\Entidades.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\PlantillaBase de datos\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\PlantillaBase de datos\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\PlantillaBase de datos\ClassLibrary1\bin\Debug\Entidades.dll
+C:\PlantillaBase de datos\ClassLibrary1\bin\Debug\Entidades.pdb
+C:\PlantillaBase de datos\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\PlantillaBase de datos\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,15 @@
+C:\C Sharp\NumeroLed\NumeroLed\bin\Debug\NumeroLed.exe
+C:\C Sharp\NumeroLed\NumeroLed\bin\Debug\NumeroLed.pdb
+C:\C Sharp\NumeroLed\NumeroLed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C Sharp\NumeroLed\NumeroLed\obj\x86\Debug\NumeroLed.exe
+C:\C Sharp\NumeroLed\NumeroLed\obj\x86\Debug\NumeroLed.pdb
+U:\C Sharp\NumeroLed\NumeroLed\obj\x86\Debug\NumeroLed.exe
+U:\C Sharp\NumeroLed\NumeroLed\obj\x86\Debug\NumeroLed.pdb
+U:\C Sharp\NumeroLed\NumeroLed\bin\Debug\NumeroLed.exe
+U:\C Sharp\NumeroLed\NumeroLed\bin\Debug\NumeroLed.pdb
+U:\C Sharp\NumeroLed\NumeroLed\obj\x86\Debug\NumeroLed.csprojResolveAssemblyReference.cache
+G:\20121993\NumeroLed\NumeroLed\obj\x86\Debug\NumeroLed.exe
+G:\20121993\NumeroLed\NumeroLed\obj\x86\Debug\NumeroLed.pdb
+G:\20121993\NumeroLed\NumeroLed\bin\Debug\NumeroLed.exe
+G:\20121993\NumeroLed\NumeroLed\bin\Debug\NumeroLed.pdb
+G:\20121993\NumeroLed\NumeroLed\obj\x86\Debug\NumeroLed.csprojResolveAssemblyReference.cache

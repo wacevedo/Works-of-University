@@ -1,0 +1,21 @@
+Final progII
+proyecto con base de datos
+
+C:/20121993/solucion
+carpeta de base de datos
+
+1)Sistema clinico
+*manejo de pacientes afectados por la chicunguya
+*Tablas:
+pacientes
+Doctor
+consulta    //
+centrosalud
+*que pacientes ha presentado la enfermedad chinkunguya
+*debe tener procesos de consulta aparte
+*debe tener mantenimiento para actualizar datos
+*debe tener consultas y reportes para datos grales pacientes y pacientes con la chicu y consulta por fecha
+*debe tener utilidades como: calculadora,editor text,webbrowser
+*debe tener ayuda: acerca de, salir 
+2)Sistema Estadistico de football
+*

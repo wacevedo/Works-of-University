@@ -1,0 +1,40 @@
+SELECT dato FROM table //selecion se dato especifico
+SELECT * FROM table //selecionar todos los datos
+SELECT DISTINCT dato FROM table// datos sin redundar
+
+SELECT p.patron_id,
+       p.last_name,
+       p.first_name, //datos
+       t.transaction_type,
+       t.transaction_date
+  FROM patrons p, transactions t
+ WHERE p.patron_id = t.patron_id //pk y fk
+ ORDER BY p.patron_id, t.transaction_type //?
+
+//
+SELECT COUNT(expression)
+FROM tables
+WHERE conditions;
+
+SELECT COUNT(*) AS "Number of employees"
+FROM employees
+WHERE salary > 55000;
+
+SELECT department, COUNT(*) AS "TOTAL"// as crea una columna temporal
+FROM employees
+GROUP BY department;
+
+select cine.id_cine, ciudad.id_ciudad FROM cine, ciudad where cine.id_ciudad=ciudad.id_ciudad and cine.id_ciudad =2;
+SELECT COUNT(SALA.ID_SALA), CIUDADES.NOMBRE_CIUDAD
+ FROM CIUDADES,SALAS,CINE 
+WHERE CINE.ID_CIUDAD=
+
+
+SELECT COUNT (SALAS.ID_SALA), CIUDADES.NOMBRE_CIUDAD FROM SALAS, CIUDADES, CINE
+WHERE CINE.ID_CIUDAD=ciudades.id_ciudad AND cine.id_cine=salas.id_cine
+GROUP BY CIUDADES.NOMBRE_CIUDAD;
+
+SELECT COUNT (SALAS.ID_SALA), PROVINCIAS.NOMBRE_PROV 
+FROM SALAS, CIUDADES, CINE,provincias
+WHERE PROVINCIAS.ID_PROVINCIA=CIUDADES.ID_PROVINCIA AND ciudades.id_ciudad=CINE.ID_CIUDAD AND cine.id_cine=salas.id_cine 
+GROUP BY PROVINCIAS.NOMBRE_PROV;

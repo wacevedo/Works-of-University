@@ -1,0 +1,3 @@
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\DiseñoCalcLosa\obj\x86\Debug\DiseñoCalcLosa.Properties.Resources.resources
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\DiseñoCalcLosa\obj\x86\Debug\WAbrir.WForm.resources
+C:\Users\Willson Acevedo\Documents\C# proyects\WAbrir\DiseñoCalcLosa\obj\x86\Debug\DiseñoCalcLosa.csproj.GenerateResource.Cache

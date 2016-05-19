@@ -1,0 +1,5 @@
+G:\20121993\BaseDatosPA\Dominio\bin\Debug\Dominio.dll
+G:\20121993\BaseDatosPA\Dominio\bin\Debug\Dominio.pdb
+G:\20121993\BaseDatosPA\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+G:\20121993\BaseDatosPA\Dominio\obj\Debug\Dominio.dll
+G:\20121993\BaseDatosPA\Dominio\obj\Debug\Dominio.pdb

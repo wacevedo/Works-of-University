@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuFinal", "MenuFinal\MenuFinal.csproj", "{394C0A3A-530D-4CA9-8A63-4B6FA18DE8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorText", "..\EditorText\EditorText\EditorText.csproj", "{B146EA19-4EA6-4B8D-8DC8-6C90A33D6773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualisadorImagen", "..\VisualisadorImagen\VisualisadorImagen\VisualisadorImagen.csproj", "{584E5A7F-EAE0-4607-A33C-0A2460549E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aforge_Web_Cam", "..\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam.csproj", "{0FBAC594-3E45-4A90-A811-CD1D484DF2E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavegadorWeb", "..\NavegadorWeb\NavegadorWeb\NavegadorWeb.csproj", "{70CCA73F-4D87-45BE-B5A1-9FA7789CD89D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "..\Mp3player\WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{FBC13EC4-C2C7-41F5-9A74-A6FB612879F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraHablante", "..\CalculadoraHablante\CalculadoraHablante\CalculadoraHablante.csproj", "{45309652-79C7-4719-9835-3B9BDD884972}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WillToolsApp", "WillToolsApp\WillToolsApp.vdproj", "{31EF0F72-5BCA-4415-B5D7-4B58DCC5FB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394C0A3A-530D-4CA9-8A63-4B6FA18DE8C3}.Debug|x86.ActiveCfg = Debug|x86
+		{394C0A3A-530D-4CA9-8A63-4B6FA18DE8C3}.Debug|x86.Build.0 = Debug|x86
+		{394C0A3A-530D-4CA9-8A63-4B6FA18DE8C3}.Release|x86.ActiveCfg = Release|x86
+		{394C0A3A-530D-4CA9-8A63-4B6FA18DE8C3}.Release|x86.Build.0 = Release|x86
+		{B146EA19-4EA6-4B8D-8DC8-6C90A33D6773}.Debug|x86.ActiveCfg = Debug|x86
+		{B146EA19-4EA6-4B8D-8DC8-6C90A33D6773}.Debug|x86.Build.0 = Debug|x86
+		{B146EA19-4EA6-4B8D-8DC8-6C90A33D6773}.Release|x86.ActiveCfg = Release|x86
+		{B146EA19-4EA6-4B8D-8DC8-6C90A33D6773}.Release|x86.Build.0 = Release|x86
+		{584E5A7F-EAE0-4607-A33C-0A2460549E77}.Debug|x86.ActiveCfg = Debug|x86
+		{584E5A7F-EAE0-4607-A33C-0A2460549E77}.Debug|x86.Build.0 = Debug|x86
+		{584E5A7F-EAE0-4607-A33C-0A2460549E77}.Release|x86.ActiveCfg = Release|x86
+		{584E5A7F-EAE0-4607-A33C-0A2460549E77}.Release|x86.Build.0 = Release|x86
+		{0FBAC594-3E45-4A90-A811-CD1D484DF2E9}.Debug|x86.ActiveCfg = Debug|x86
+		{0FBAC594-3E45-4A90-A811-CD1D484DF2E9}.Debug|x86.Build.0 = Debug|x86
+		{0FBAC594-3E45-4A90-A811-CD1D484DF2E9}.Release|x86.ActiveCfg = Release|x86
+		{0FBAC594-3E45-4A90-A811-CD1D484DF2E9}.Release|x86.Build.0 = Release|x86
+		{70CCA73F-4D87-45BE-B5A1-9FA7789CD89D}.Debug|x86.ActiveCfg = Debug|x86
+		{70CCA73F-4D87-45BE-B5A1-9FA7789CD89D}.Debug|x86.Build.0 = Debug|x86
+		{70CCA73F-4D87-45BE-B5A1-9FA7789CD89D}.Release|x86.ActiveCfg = Release|x86
+		{70CCA73F-4D87-45BE-B5A1-9FA7789CD89D}.Release|x86.Build.0 = Release|x86
+		{FBC13EC4-C2C7-41F5-9A74-A6FB612879F0}.Debug|x86.ActiveCfg = Debug|x86
+		{FBC13EC4-C2C7-41F5-9A74-A6FB612879F0}.Debug|x86.Build.0 = Debug|x86
+		{FBC13EC4-C2C7-41F5-9A74-A6FB612879F0}.Release|x86.ActiveCfg = Release|x86
+		{FBC13EC4-C2C7-41F5-9A74-A6FB612879F0}.Release|x86.Build.0 = Release|x86
+		{45309652-79C7-4719-9835-3B9BDD884972}.Debug|x86.ActiveCfg = Debug|x86
+		{45309652-79C7-4719-9835-3B9BDD884972}.Debug|x86.Build.0 = Debug|x86
+		{45309652-79C7-4719-9835-3B9BDD884972}.Release|x86.ActiveCfg = Release|x86
+		{45309652-79C7-4719-9835-3B9BDD884972}.Release|x86.Build.0 = Release|x86
+		{31EF0F72-5BCA-4415-B5D7-4B58DCC5FB9D}.Debug|x86.ActiveCfg = Debug
+		{31EF0F72-5BCA-4415-B5D7-4B58DCC5FB9D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

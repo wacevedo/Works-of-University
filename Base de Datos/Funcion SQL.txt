@@ -1,0 +1,22 @@
+S.Q.L.
+Funciones de Grupo (I)
+
+•	AVG ([DISTINCT | ALL] n)
+o	Valor promedio de n.
+•	COUNT ({* | [DISTINCT | ALL |] expr})
+o	Cantidad de filas con expr no nulo. Con * se cuentan todas las filas incluyendo duplicadas y valores nulos.
+•	MAX ([DISTINCT | ALL] expr)
+o	Valor máximo de expr.
+•	MIN ([DISTINCT | ALL] expr)
+o	Valor mínimo de expr., ignorando los valores nulos.
+•	SUM 
+S.Q.L.
+Funciones de Grupo (II)
+•	STDDEV ([DISTINCT | ALL] n)
+o	Desviación estándar de n, ignorando los valores nulos.
+•	SUM ([DISTINCT | ALL] n)
+o	Suma los valores de n, ignorando los valores nulos.
+•	VARIANCE ([DISTINCT | ALL] n)
+o	Varianza de n, ignorando los valores nulos
+•	Estas funciones no se pueden usar en la cláusula WHERE.
+

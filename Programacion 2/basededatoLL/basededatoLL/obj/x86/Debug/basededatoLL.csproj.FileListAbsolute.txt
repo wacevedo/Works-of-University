@@ -1,0 +1,12 @@
+G:\20121993\basededatoLL\basededatoLL\bin\Debug\Neptuno.mdb
+G:\20121993\basededatoLL\basededatoLL\bin\Debug\basededatoLL.exe.config
+G:\20121993\basededatoLL\basededatoLL\bin\Debug\basededatoLL.exe
+G:\20121993\basededatoLL\basededatoLL\bin\Debug\basededatoLL.pdb
+G:\20121993\basededatoLL\basededatoLL\obj\x86\Debug\basededatoLL.csprojResolveAssemblyReference.cache
+G:\20121993\basededatoLL\basededatoLL\obj\x86\Debug\basededatoLL.Form1.resources
+G:\20121993\basededatoLL\basededatoLL\obj\x86\Debug\basededatoLL.Properties.Resources.resources
+G:\20121993\basededatoLL\basededatoLL\obj\x86\Debug\basededatoLL.csproj.GenerateResource.Cache
+G:\20121993\basededatoLL\basededatoLL\obj\x86\Debug\RdlCompile.cache
+G:\20121993\basededatoLL\basededatoLL\obj\x86\Debug\RdlCompile.compiled
+G:\20121993\basededatoLL\basededatoLL\obj\x86\Debug\basededatoLL.exe
+G:\20121993\basededatoLL\basededatoLL\obj\x86\Debug\basededatoLL.pdb

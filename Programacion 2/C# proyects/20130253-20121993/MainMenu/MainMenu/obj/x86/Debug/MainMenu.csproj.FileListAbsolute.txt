@@ -1,0 +1,52 @@
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\bin\Debug\MainMenu.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertPaciente.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertDoctor.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertEspecialidad.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertEspecialidadDoc.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertPatologia.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormConsultas.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.Habitacion.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\bin\Debug\Dominio.dll
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\bin\Debug\Dominio.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\bin\Debug\MainMenu.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertCentroS.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\bin\Debug\Sesion.dll
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\MainMenu\bin\Debug\Sesion.pdb
+C:\20130253-20121993\MainMenu\MainMenu\bin\Debug\MainMenu.exe.config
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.exe
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.pdb
+C:\20130253-20121993\MainMenu\MainMenu\bin\Debug\MainMenu.pdb
+C:\20130253-20121993\MainMenu\MainMenu\bin\Debug\Dominio.dll
+C:\20130253-20121993\MainMenu\MainMenu\bin\Debug\Sesion.dll
+C:\20130253-20121993\MainMenu\MainMenu\bin\Debug\Dominio.pdb
+C:\20130253-20121993\MainMenu\MainMenu\bin\Debug\Sesion.pdb
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.csprojResolveAssemblyReference.cache
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.Form1.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertCentroS.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormConsultas.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertDoctor.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertEspecialidad.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertEspecialidadDoc.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertPaciente.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormInsertPatologia.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.Habitacion.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.Properties.Resources.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.csproj.GenerateResource.Cache
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.PacientesChiku.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormDatosPacYCon.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.FormReportes.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.Acerca.resources
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\RdlCompile.cache
+C:\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Willson Acevedo\Documents\C# proyects\20130253-20121993\MainMenu\MainMenu\bin\Debug\MainMenu.exe.config
+C:\Users\Willson Acevedo\Documents\C# proyects\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.exe
+C:\Users\Willson Acevedo\Documents\C# proyects\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.pdb
+C:\Users\Willson Acevedo\Documents\Programacion 2\C# proyects\20130253-20121993\MainMenu\MainMenu\bin\Debug\MainMenu.exe.config
+C:\Users\Willson Acevedo\Documents\Programacion 2\C# proyects\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.exe
+C:\Users\Willson Acevedo\Documents\Programacion 2\C# proyects\20130253-20121993\MainMenu\MainMenu\obj\x86\Debug\MainMenu.pdb

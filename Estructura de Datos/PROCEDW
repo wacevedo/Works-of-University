@@ -1,0 +1,75 @@
+#include <stdio.h>
+#include <conio.h>
+
+
+void main()
+{
+ /* declaraciones de procedimientos/funciones */
+  void cuadro(int, int, int, int);
+  void relleno(int, int, int, int);
+  void triangulo(int);
+
+ clrscr();
+ /* llamada a la funcion/procedimiento */
+ cuadro(5,2,75,6);
+ getch();
+ relleno(5,2,75,6); 
+ getch();
+ triangulo(10);
+ getch();
+}
+
+/* procedimiento para crear el triangulo */
+void triangulo(int n) // n tamaño del triangulo
+{
+ int x,y,z;
+
+ x=40;
+ y=40;
+ for (z=1; z<=n;z++)
+   {
+     gotoxy(x,6+z); printf("*");
+     gotoxy(y,6+z); printf("*");
+     gotoxy(x,6+n); printf("*");
+     gotoxy(y,6+n); printf("*");
+     x++;
+     y--;
+   }
+   getch();
+}
+
+/* Procedimiento para crear una cuadro en pantalla */
+void cuadro(int x1,int y1,int x2, int y2)
+{
+  int x, y;
+
+ for (x=x1;x<=x2; x++)
+   {
+     gotoxy(x,y1); printf("%c",187);
+     gotoxy(x,y2); printf("%c",187);
+   }
+ for (y=y1;y<=y2; y++)
+   {
+     gotoxy(x1,y); printf("%c",186);
+     gotoxy(x2,y); printf("%c",186);   // Alt+186
+   }
+
+    gotoxy(x1,y1); printf("%c",201);   // 201
+    gotoxy(x2,y1); printf("%c",187);   // Alt+187
+    gotoxy(x1,y2); printf("%c",200);   // 200
+    gotoxy(x2,y2); printf("%c",188);   // Alt+188
+}
+
+/* procedimiento para rellenar el cuadro */
+void relleno (int x1, int y1, int x2, int y2)
+{
+ int x,y;
+
+ textbackground(5);
+ for (x=x1+1; x<=x2-1; x++)
+    for (y=y1+1; y<=y2-1; y++)
+      {
+     gotoxy(x,y); cprintf("%c",19);
+      }
+ textbackground(2);
+}

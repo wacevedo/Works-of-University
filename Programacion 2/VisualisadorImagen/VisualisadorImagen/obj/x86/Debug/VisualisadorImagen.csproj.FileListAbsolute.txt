@@ -1,0 +1,46 @@
+G:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Form1.resources
+G:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Properties.Resources.resources
+G:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.csproj.GenerateResource.Cache
+G:\20121993\VisualisadorImagen\VisualisadorImagen\bin\Debug\VisualisadorImagen.exe
+G:\20121993\VisualisadorImagen\VisualisadorImagen\bin\Debug\VisualisadorImagen.pdb
+G:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.exe
+G:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.pdb
+H:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.exe
+H:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.pdb
+H:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Form1.resources
+H:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Properties.Resources.resources
+H:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\20121993\VisualisadorImagen\VisualisadorImagen\bin\Debug\VisualisadorImagen.exe
+H:\20121993\VisualisadorImagen\VisualisadorImagen\bin\Debug\VisualisadorImagen.pdb
+I:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.exe
+I:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.pdb
+I:\20121993\VisualisadorImagen\VisualisadorImagen\bin\Debug\VisualisadorImagen.exe
+I:\20121993\VisualisadorImagen\VisualisadorImagen\bin\Debug\VisualisadorImagen.pdb
+I:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Form1.resources
+I:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Properties.Resources.resources
+I:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Colormatrix.resources
+F:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.exe
+F:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.pdb
+F:\20121993\VisualisadorImagen\VisualisadorImagen\bin\Debug\VisualisadorImagen.exe
+F:\20121993\VisualisadorImagen\VisualisadorImagen\bin\Debug\VisualisadorImagen.pdb
+F:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Colormatrix.resources
+F:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Form1.resources
+F:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Properties.Resources.resources
+F:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.csproj.GenerateResource.Cache
+H:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Colormatrix.resources
+G:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.csprojResolveAssemblyReference.cache
+G:\20121993\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Colormatrix.resources
+C:\Users\Willson Acevedo\Documents\Programacion 2\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.exe
+C:\Users\Willson Acevedo\Documents\Programacion 2\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.pdb
+C:\Users\Willson Acevedo\Documents\Programacion 2\VisualisadorImagen\VisualisadorImagen\bin\Debug\VisualisadorImagen.exe
+C:\Users\Willson Acevedo\Documents\Programacion 2\VisualisadorImagen\VisualisadorImagen\bin\Debug\VisualisadorImagen.pdb
+C:\Users\Willson Acevedo\Documents\Programacion 2\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.csprojResolveAssemblyReference.cache
+C:\Users\Willson Acevedo\Documents\Programacion 2\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Colormatrix.resources
+C:\Users\Willson Acevedo\Documents\Programacion 2\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Form1.resources
+C:\Users\Willson Acevedo\Documents\Programacion 2\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.Properties.Resources.resources
+C:\Users\Willson Acevedo\Documents\Programacion 2\VisualisadorImagen\VisualisadorImagen\obj\x86\Debug\VisualisadorImagen.csproj.GenerateResource.Cache

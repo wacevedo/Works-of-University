@@ -1,0 +1,9 @@
+I:\20121993\NavegadorWeb\NavegadorWeb\bin\Release\NavegadorWeb.exe
+I:\20121993\NavegadorWeb\NavegadorWeb\bin\Release\NavegadorWeb.pdb
+I:\20121993\NavegadorWeb\NavegadorWeb\obj\x86\Release\ResolveAssemblyReference.cache
+I:\20121993\NavegadorWeb\NavegadorWeb\obj\x86\Release\NavegadorWeb.Form1.resources
+I:\20121993\NavegadorWeb\NavegadorWeb\obj\x86\Release\NavegadorWeb.Properties.Resources.resources
+I:\20121993\NavegadorWeb\NavegadorWeb\obj\x86\Release\GenerateResource.read.1.tlog
+I:\20121993\NavegadorWeb\NavegadorWeb\obj\x86\Release\GenerateResource.write.1.tlog
+I:\20121993\NavegadorWeb\NavegadorWeb\obj\x86\Release\NavegadorWeb.exe
+I:\20121993\NavegadorWeb\NavegadorWeb\obj\x86\Release\NavegadorWeb.pdb

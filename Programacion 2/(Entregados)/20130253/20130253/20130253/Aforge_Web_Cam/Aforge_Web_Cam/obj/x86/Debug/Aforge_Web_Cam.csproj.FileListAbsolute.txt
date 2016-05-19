@@ -1,0 +1,144 @@
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.exe
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.pdb
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.dll
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.VFW.dll
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.dll
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.xml
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.VFW.xml
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.xml
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.csprojResolveAssemblyReference.cache
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.VideoForm.resources
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.Properties.Resources.resources
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.csproj.GenerateResource.Cache
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.exe
+C:\Users\AlexWork2\Dropbox\Documentos\Tareas Programacion\Base de Datos c#\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.pdb
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.exe
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.pdb
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.exe
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.pdb
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.dll
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.xml
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.DirectShow.xml
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.VFW.xml
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.xml
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.VideoForm.resources
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.Properties.Resources.resources
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.exe
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.pdb
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.exe
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.pdb
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.dll
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.xml
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.DirectShow.xml
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.VFW.xml
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.xml
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.VideoForm.resources
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.Properties.Resources.resources
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Controls.dll
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.dll
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.dll
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Controls.xml
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.xml
+I:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.xml
+G:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.exe
+G:\20121993\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.dll
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.dll
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.dll
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Controls.xml
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.xml
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.xml
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.xml
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.xml
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.VideoForm.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.csproj.GenerateResource.Cache
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.exe
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.exe
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.pdb
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.dll
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.dll
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.dll
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Controls.xml
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.xml
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.DirectShow.xml
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.VFW.xml
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.xml
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.xml
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.xml
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.VideoForm.resources
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.Properties.Resources.resources
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual C#\EXAMEN\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.pdb
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.exe
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.pdb
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.exe
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.pdb
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.dll
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.dll
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.dll
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Controls.xml
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.xml
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.xml
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.xml
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.xml
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.VideoForm.resources
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.Properties.Resources.resources
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jimmy Lora\Documents\Visual Studio 2010\Projects\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.exe
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.pdb
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.exe
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.pdb
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.dll
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.dll
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.dll
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Controls.xml
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.xml
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.xml
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.xml
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.xml
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.VideoForm.resources
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.Properties.Resources.resources
+C:\Users\Pedro\Downloads\Aforge_Web_Cam\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.csproj.GenerateResource.Cache
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.exe
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.pdb
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.exe
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\Aforge_Web_Cam.pdb
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.dll
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.dll
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.dll
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Controls.xml
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.xml
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.DirectShow.xml
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Video.VFW.xml
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.xml
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Imaging.xml
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\bin\Debug\AForge.Math.xml
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.csprojResolveAssemblyReference.cache
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.VideoForm.resources
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.Properties.Resources.resources
+C:\20130253\Aforge_Web_Cam\Aforge_Web_Cam\obj\x86\Debug\Aforge_Web_Cam.csproj.GenerateResource.Cache

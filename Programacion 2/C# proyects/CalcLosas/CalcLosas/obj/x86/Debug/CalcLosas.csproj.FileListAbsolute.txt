@@ -1,0 +1,14 @@
+c:\users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\bin\Debug\CalcLosas.exe
+c:\users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\bin\Debug\CalcLosas.pdb
+c:\users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\obj\x86\Debug\CalcLosas.Form1.resources
+c:\users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\obj\x86\Debug\CalcLosas.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\obj\x86\Debug\CalcLosas.exe
+c:\users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\obj\x86\Debug\CalcLosas.pdb
+C:\Users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\obj\x86\Debug\CalcLosas.Cuanti.resources
+C:\Users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\obj\x86\Debug\CalcLosas.Espesores.resources
+C:\Users\pc\documents\visual studio 2010\Projects\CalcLosas\CalcLosas\obj\x86\Debug\CalcLosas.Cuanti2.resources
+C:\Users\Willson Acevedo\Desktop\CalcLosas\CalcLosas\obj\x86\Debug\CalcLosas.exe
+C:\Users\Willson Acevedo\Desktop\CalcLosas\CalcLosas\obj\x86\Debug\CalcLosas.pdb

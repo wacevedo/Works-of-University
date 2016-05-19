@@ -1,0 +1,20 @@
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Menu\Menu\obj\x86\Debug\Menu.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Menu\Menu\obj\x86\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Menu\Menu\obj\x86\Debug\Menu.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Menu\Menu\obj\x86\Debug\Menu.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Menu\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Menu\Menu\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\1 Para entregar\Menu\Menu\bin\Debug\WindowsFormsApplication1.pdb
+C:\1 Para entregar\Menu\Menu\obj\x86\Debug\Menu.exe
+C:\1 Para entregar\Menu\Menu\obj\x86\Debug\Menu.pdb
+C:\20130253\Menu\Menu\obj\x86\Debug\Menu.exe
+C:\20130253\Menu\Menu\obj\x86\Debug\Menu.pdb
+C:\20130253\Menu\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\20130253\Menu\Menu\obj\x86\Debug\Menu.Form1.resources
+C:\20130253\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+C:\20130253\Menu\Menu\obj\x86\Debug\Menu.csproj.GenerateResource.Cache
+C:\20130253\Menu\Menu\bin\Debug\Menu.exe
+C:\20130253\Menu\Menu\bin\Debug\Menu.pdb

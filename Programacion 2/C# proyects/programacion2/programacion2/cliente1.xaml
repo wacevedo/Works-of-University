@@ -1,0 +1,16 @@
+﻿<Window x:Class="programacion2.cliente1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="cliente1" Height="300" Width="300" Loaded="Window_Loaded">
+    <Grid Height="257" Width="266">
+        <Label Content="Nombre:" Height="28" HorizontalAlignment="Left" Margin="31,83,0,0" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,88,53,0" Name="textBoxNombre" VerticalAlignment="Top" Width="120" TextChanged="textBox1_TextChanged" />
+        <Label Content="Cedula:" Height="28" HorizontalAlignment="Left" Margin="31,131,0,0" VerticalAlignment="Top" />
+        <TextBox Height="0" HorizontalAlignment="Right" Margin="0,33,148,0" Name="textBox2" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,136,53,0" Name="textBoxCedula" VerticalAlignment="Top" Width="120" />
+        <Button Content="ATRAS" Height="23" HorizontalAlignment="Left" Margin="12,30,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Content="Compra" Height="23" HorizontalAlignment="Left" Margin="163,12,0,0" Name="buttonCompra" VerticalAlignment="Top" Width="75" Click="buttonCompra_Click" />
+        <Button Content="INSERTAR" Height="23" HorizontalAlignment="Left" Margin="179,205,0,0" Name="insertar" VerticalAlignment="Top" Width="75" Click="button3_Click" />
+        <Button Content="Venta" Height="23" HorizontalAlignment="Left" Margin="163,0,0,185" Name="buttonVenta" VerticalAlignment="Bottom" Width="75" Click="buttonVenta_Click" />
+    </Grid>
+</Window>

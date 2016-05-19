@@ -1,0 +1,5 @@
+G:\20121993\Diferencia de dias entre fechas\Diferencia de dias entre fechas\bin\Debug\Diferencia de dias entre fechas.exe
+G:\20121993\Diferencia de dias entre fechas\Diferencia de dias entre fechas\bin\Debug\Diferencia de dias entre fechas.pdb
+G:\20121993\Diferencia de dias entre fechas\Diferencia de dias entre fechas\obj\x86\Debug\Diferencia de dias entre fechas.csprojResolveAssemblyReference.cache
+G:\20121993\Diferencia de dias entre fechas\Diferencia de dias entre fechas\obj\x86\Debug\Diferencia de dias entre fechas.exe
+G:\20121993\Diferencia de dias entre fechas\Diferencia de dias entre fechas\obj\x86\Debug\Diferencia de dias entre fechas.pdb

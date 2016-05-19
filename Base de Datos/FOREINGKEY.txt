@@ -1,0 +1,37 @@
+create table carrera (
+cod_carrera varchar2 (3) not null,
+desc_carrera varchar2(50) not null
+);
+
+insert into carrera (cod_carrera, desc_carrera)
+VALUES ('ISC', 'INGENIERIA EN SISTEMAS');
+
+insert into carrera (cod_carrera, desc_carrera)
+VALUES ('MED', 'MEDICINA');
+
+insert into carrera (cod_carrera, desc_carrera)
+VALUES ('IIN', 'INGENIERIA INDUSTRIAL');
+
+insert into carrera (cod_carrera, desc_carrera)
+VALUES ('ICI', 'INGENIERIA CIVIL');
+
+COMMIT;
+
+alter table ESTUDIANT add constraint PK_MATRICULA primary key (MATRICULA);
+
+alter table CARRERA add constraint PK_cod_carrera primary key (COD_CARRERA);
+
+alter table ESTUDIANT add constraint FK_cod_carrera foreign key (COD_CARRERA) references CARRERA (COD_CARRERA);
+
+ insert INTO ESTUDIANT (matricula,nombre,apellido,cedula,direccion,sexo,cod_carrera)
+ values ('20121993','Willson Neriz','Acevedo Sanchez','0','La Loteria calle G casa#7','m','ISC');
+ commit;
+
+
+ alter table estudiant add constraint CK_SEXO check (SEXO IN ('M','F')); // EVITAR INSERTEN != M OR F
+
+insert into estudiant (matricula,nombre,apellido,cedula,direccion,sexo,cod_carrera)
+ values ('20130253','Pedro Alberto','Rosario Estrella','0','calle club rotario #10','M','ISC');
+ commit;
+
+alter table estudiant add constraint ui_estudiant_cedula unique (cedula); // validar para que no se repita

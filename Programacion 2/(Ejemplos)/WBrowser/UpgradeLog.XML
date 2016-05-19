@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WBrowser">
+</Property><Property Name="Archivo de la solución" Value="G:\20121993\(Ejemplos)\WBrowser\WBrowser.sln">
+</Property><Property Name="Date" Value="martes, 15 de julio de 2014">
+</Property><Property Name="Time" Value="21:00 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WBrowser.sln" Description="La copia G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\WBrowser.csproj">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.csproj.user" Description="La copia de seguridad G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\WBrowser.csproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\About.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\About.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\About.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\About.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\AddFavorites.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\AddFavorites.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\AddFavorites.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\AddFavorites.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Calendar.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Calendar.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Calendar.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Calendar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Close.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Close.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Close.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Close.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\DeleteBrowsingHistory.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\DeleteBrowsingHistory.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\DeleteBrowsingHistory.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\DeleteBrowsingHistory.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\InternetOption.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\InternetOption.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\InternetOption.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\InternetOption.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\WBrowser.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\WBrowser.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Open.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Open.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Open.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Open.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\OrganizeFavorites.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\OrganizeFavorites.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\OrganizeFavorites.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\OrganizeFavorites.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Program.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\RenameLink.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\RenameLink.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\RenameLink.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\RenameLink.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\About.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\About.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\AddFavorites.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\AddFavorites.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Calendar.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Calendar.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Close.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Close.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\DeleteBrowsingHistory.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\DeleteBrowsingHistory.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\InternetOption.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\InternetOption.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\WBrowser.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Open.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Open.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\OrganizeFavorites.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\OrganizeFavorites.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\RenameLink.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\20121993\(Ejemplos)\WBrowser\Backup\WBrowser\RenameLink.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="WBrowser" Source="WBrowser\WBrowser.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WBrowser.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="WBrowser.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

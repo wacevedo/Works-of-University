@@ -1,0 +1,34 @@
+que es cmd?
+is the command-line interpreter on OS/2 and eComStation, 
+Windows CE and Windows NT operating systems 
+Comando?o linea de comando?
+
+comando de ver hora y fecha del sistema?
+time
+date
+
+comando para crear carpeta?
+md nombrecarpeta
+
+comando para ver o desplegar directorio?
+cd nombrecarpeta
+
+cd.. volver a la carpeta anterios
+limpiar pantalla - cls
+color
+help-ayuda
+ver-vercion del windows
+dir-ver directorios
+del nombrecarpeta - borrar
+tree - para ver las carpetas y sus carpetas y sus contenidos 
+write - abre el archivo para escribir el archivo
+copy con - crear archivo... copy con prueba.txt y luego ctrl+z para cerrar
+ 
+copy con prueba.xls 
+3
+5  tab para siguiente columna
+=a1+a2 ctrl+z
+
+move archivo nombre carpeta
+
+

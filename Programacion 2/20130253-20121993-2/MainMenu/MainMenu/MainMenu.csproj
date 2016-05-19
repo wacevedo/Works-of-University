@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1A9035FE-EC37-45A7-AC7E-9F90144E2033}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MainMenu</RootNamespace>
+    <AssemblyName>MainMenu</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MainMenu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <ExecutableExtension>.exe</ExecutableExtension>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acerca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acerca.Designer.cs">
+      <DependentUpon>Acerca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClinicaDataBaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClinicaDataBaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ClinicaDataBaseDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClinicaDataBaseDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ClinicaDataBaseDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClinicaDataBaseDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ClinicaDataBaseDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClinicaDataBaseDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ClinicaDataBaseDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClinicaDataBaseDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDatosPacYCon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDatosPacYCon.Designer.cs">
+      <DependentUpon>FormDatosPacYCon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInsertCentroS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInsertCentroS.Designer.cs">
+      <DependentUpon>FormInsertCentroS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConsultas.Designer.cs">
+      <DependentUpon>FormConsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInsertDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInsertDoctor.Designer.cs">
+      <DependentUpon>FormInsertDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInsertEspecialidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInsertEspecialidad.Designer.cs">
+      <DependentUpon>FormInsertEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInsertEspecialidadDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInsertEspecialidadDoc.Designer.cs">
+      <DependentUpon>FormInsertEspecialidadDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInsertPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInsertPaciente.Designer.cs">
+      <DependentUpon>FormInsertPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInsertPatologia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInsertPatologia.Designer.cs">
+      <DependentUpon>FormInsertPatologia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportes.Designer.cs">
+      <DependentUpon>FormReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Habitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Habitacion.Designer.cs">
+      <DependentUpon>Habitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PacientesChiku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PacientesChiku.Designer.cs">
+      <DependentUpon>PacientesChiku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Acerca.resx">
+      <DependentUpon>Acerca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDatosPacYCon.resx">
+      <DependentUpon>FormDatosPacYCon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInsertCentroS.resx">
+      <DependentUpon>FormInsertCentroS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConsultas.resx">
+      <DependentUpon>FormConsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInsertDoctor.resx">
+      <DependentUpon>FormInsertDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInsertEspecialidad.resx">
+      <DependentUpon>FormInsertEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInsertEspecialidadDoc.resx">
+      <DependentUpon>FormInsertEspecialidadDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInsertPaciente.resx">
+      <DependentUpon>FormInsertPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInsertPatologia.resx">
+      <DependentUpon>FormInsertPatologia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReportes.resx">
+      <DependentUpon>FormReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Habitacion.resx">
+      <DependentUpon>Habitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PacientesChiku.resx">
+      <DependentUpon>PacientesChiku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <None Include="app.config" />
+    <None Include="ClinicaDataBaseDataSet.xsc">
+      <DependentUpon>ClinicaDataBaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataBaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ClinicaDataBaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClinicaDataBaseDataSet.xss">
+      <DependentUpon>ClinicaDataBaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataBaseDataSet1.xsc">
+      <DependentUpon>ClinicaDataBaseDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataBaseDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ClinicaDataBaseDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClinicaDataBaseDataSet1.xss">
+      <DependentUpon>ClinicaDataBaseDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataBaseDataSet11.xsc">
+      <DependentUpon>ClinicaDataBaseDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataBaseDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ClinicaDataBaseDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClinicaDataBaseDataSet11.xss">
+      <DependentUpon>ClinicaDataBaseDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataBaseDataSet2.xsc">
+      <DependentUpon>ClinicaDataBaseDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataBaseDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ClinicaDataBaseDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClinicaDataBaseDataSet2.xss">
+      <DependentUpon>ClinicaDataBaseDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataBaseDataSet3.xsc">
+      <DependentUpon>ClinicaDataBaseDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataBaseDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ClinicaDataBaseDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClinicaDataBaseDataSet3.xss">
+      <DependentUpon>ClinicaDataBaseDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dominio\Dominio.csproj">
+      <Project>{DED951DA-6AAE-4BD8-9B21-A955A3D40D3E}</Project>
+      <Name>Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sesion\Sesion.csproj">
+      <Project>{755451CD-517C-402F-8332-4C6A12620CBC}</Project>
+      <Name>Sesion</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package_purge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_edit_clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acercade.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

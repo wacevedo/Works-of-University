@@ -1,0 +1,42 @@
+G:\20121993\CalculadoraHablante\CalculadoraHablante\bin\Debug\CalculadoraHablante.exe
+G:\20121993\CalculadoraHablante\CalculadoraHablante\bin\Debug\CalculadoraHablante.pdb
+G:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Form1.resources
+G:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Properties.Resources.resources
+G:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.csproj.GenerateResource.Cache
+G:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.exe
+G:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.pdb
+F:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.exe
+F:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.pdb
+F:\20121993\CalculadoraHablante\CalculadoraHablante\bin\Debug\CalculadoraHablante.exe
+F:\20121993\CalculadoraHablante\CalculadoraHablante\bin\Debug\CalculadoraHablante.pdb
+F:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Form1.resources
+F:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Properties.Resources.resources
+H:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.exe
+H:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.pdb
+H:\20121993\CalculadoraHablante\CalculadoraHablante\bin\Debug\CalculadoraHablante.exe
+H:\20121993\CalculadoraHablante\CalculadoraHablante\bin\Debug\CalculadoraHablante.pdb
+H:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Form1.resources
+H:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Properties.Resources.resources
+H:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.csprojResolveAssemblyReference.cache
+F:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.csproj.GenerateResource.Cache
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.exe
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.pdb
+I:\20121993\CalculadoraHablante\CalculadoraHablante\bin\Debug\CalculadoraHablante.exe
+I:\20121993\CalculadoraHablante\CalculadoraHablante\bin\Debug\CalculadoraHablante.pdb
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Form1.resources
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Properties.Resources.resources
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Willson Acevedo\Documents\Programacion 2\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.exe
+C:\Users\Willson Acevedo\Documents\Programacion 2\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.pdb
+C:\Users\Willson Acevedo\Documents\Programacion 2\CalculadoraHablante\CalculadoraHablante\bin\Debug\CalculadoraHablante.exe
+C:\Users\Willson Acevedo\Documents\Programacion 2\CalculadoraHablante\CalculadoraHablante\bin\Debug\CalculadoraHablante.pdb
+C:\Users\Willson Acevedo\Documents\Programacion 2\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.csprojResolveAssemblyReference.cache
+C:\Users\Willson Acevedo\Documents\Programacion 2\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Form1.resources
+C:\Users\Willson Acevedo\Documents\Programacion 2\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Properties.Resources.resources
+C:\Users\Willson Acevedo\Documents\Programacion 2\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.csproj.GenerateResource.Cache
+C:\Users\Willson Acevedo\Documents\Programacion 2\CalculadoraHablante\CalculadoraHablante\obj\x86\Debug\CalculadoraHablante.Form2.resources

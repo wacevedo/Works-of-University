@@ -1,0 +1,10 @@
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Dominio\bin\Debug\Dominio.dll
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Dominio\obj\Debug\Dominio.dll
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\20130253-20121993\MainMenu\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\20130253-20121993\MainMenu\Dominio\obj\Debug\Dominio.dll
+C:\20130253-20121993\MainMenu\Dominio\obj\Debug\Dominio.pdb
+C:\20130253-20121993\MainMenu\Dominio\bin\Debug\Dominio.dll
+C:\20130253-20121993\MainMenu\Dominio\bin\Debug\Dominio.pdb

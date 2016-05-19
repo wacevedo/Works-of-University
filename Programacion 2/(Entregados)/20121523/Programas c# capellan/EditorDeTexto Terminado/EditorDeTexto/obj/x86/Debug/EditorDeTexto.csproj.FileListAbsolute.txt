@@ -1,0 +1,22 @@
+c:\users\alexwork\documents\visual studio 2010\Projects\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+c:\users\alexwork\documents\visual studio 2010\Projects\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+c:\users\alexwork\documents\visual studio 2010\Projects\EditorDeTexto\EditorDeTexto\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alexwork\documents\visual studio 2010\Projects\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.Form1.resources
+c:\users\alexwork\documents\visual studio 2010\Projects\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.Properties.Resources.resources
+c:\users\alexwork\documents\visual studio 2010\Projects\EditorDeTexto\EditorDeTexto\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\alexwork\documents\visual studio 2010\Projects\EditorDeTexto\EditorDeTexto\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\alexwork\documents\visual studio 2010\Projects\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.exe
+c:\users\alexwork\documents\visual studio 2010\Projects\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.pdb
+C:\Users\AlexWork\Documents\Visual Studio 2010\Projects\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.Form2.resources
+C:\Users\AlexWork\Desktop\Programas e C# Tarea\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.exe
+C:\Users\AlexWork\Desktop\Programas e C# Tarea\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.pdb
+C:\Users\AlexWork\Desktop\Programas e C# Tarea\EditorDeTexto Terminado\EditorDeTexto\obj\x86\Debug\EditorDeTexto.exe
+C:\Users\AlexWork\Desktop\Programas e C# Tarea\EditorDeTexto Terminado\EditorDeTexto\obj\x86\Debug\EditorDeTexto.pdb
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeTexto Terminado\EditorDeTexto\obj\x86\Debug\EditorDeTexto.exe
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeTexto Terminado\EditorDeTexto\obj\x86\Debug\EditorDeTexto.pdb
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeTexto Terminado\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeTexto Terminado\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeTexto Terminado\EditorDeTexto\obj\x86\Debug\EditorDeTexto.Form1.resources
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeTexto Terminado\EditorDeTexto\obj\x86\Debug\EditorDeTexto.Form2.resources
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeTexto Terminado\EditorDeTexto\obj\x86\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\EditorDeTexto Terminado\EditorDeTexto\obj\x86\Debug\EditorDeTexto.csproj.GenerateResource.Cache

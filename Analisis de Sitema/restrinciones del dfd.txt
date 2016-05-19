@@ -1,0 +1,19 @@
+una entidad no puede estar conectada a otra entidad
+un proceso no se puede conectar con otro proceso
+un almacen no se puede conectar con otro almacen
+los flujos de datos tiene que estar comentados
+
+
+diagrama de contexto
+Reglas o restriciones en DFD
+una entidad no puede estar conectada a otra entidad
+un proceso no se puede conectar con otro proceso
+un almacen no se puede conectar con otro almacen
+los flujos de datos tiene que estar comentados
+los procesos se enumeran
+
+
+diagrama de contexto
+
+*sacar cuales son las entidades, procesos, flujos y almacanes de una biblioteca
+

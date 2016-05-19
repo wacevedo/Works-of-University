@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="ConexionBD/dist/ConexionBD.jar"/>
+	<classpathentry kind="lib" path="ConexionBD/dist/lib/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="ConexionBD/dist/lib/ojdbc6_g.jar"/>
+	<classpathentry kind="lib" path="ConexionBD/lib/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="ConexionBD/lib/ojdbc6_g.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

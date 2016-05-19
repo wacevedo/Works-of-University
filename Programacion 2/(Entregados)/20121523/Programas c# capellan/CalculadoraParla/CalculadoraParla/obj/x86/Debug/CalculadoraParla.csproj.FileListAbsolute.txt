@@ -1,0 +1,16 @@
+c:\users\alexwork\documents\visual studio 2010\Projects\CalculadoraParla\CalculadoraParla\bin\Debug\CalculadoraParla.exe
+c:\users\alexwork\documents\visual studio 2010\Projects\CalculadoraParla\CalculadoraParla\bin\Debug\CalculadoraParla.pdb
+c:\users\alexwork\documents\visual studio 2010\Projects\CalculadoraParla\CalculadoraParla\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alexwork\documents\visual studio 2010\Projects\CalculadoraParla\CalculadoraParla\obj\x86\Debug\CalculadoraParla.Form1.resources
+c:\users\alexwork\documents\visual studio 2010\Projects\CalculadoraParla\CalculadoraParla\obj\x86\Debug\CalculadoraParla.Properties.Resources.resources
+c:\users\alexwork\documents\visual studio 2010\Projects\CalculadoraParla\CalculadoraParla\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\alexwork\documents\visual studio 2010\Projects\CalculadoraParla\CalculadoraParla\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\alexwork\documents\visual studio 2010\Projects\CalculadoraParla\CalculadoraParla\obj\x86\Debug\CalculadoraParla.exe
+c:\users\alexwork\documents\visual studio 2010\Projects\CalculadoraParla\CalculadoraParla\obj\x86\Debug\CalculadoraParla.pdb
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\CalculadoraParla\CalculadoraParla\bin\Debug\CalculadoraParla.exe
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\CalculadoraParla\CalculadoraParla\bin\Debug\CalculadoraParla.pdb
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\CalculadoraParla\CalculadoraParla\obj\x86\Debug\CalculadoraParla.Form1.resources
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\CalculadoraParla\CalculadoraParla\obj\x86\Debug\CalculadoraParla.Properties.Resources.resources
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\CalculadoraParla\CalculadoraParla\obj\x86\Debug\CalculadoraParla.csproj.GenerateResource.Cache
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\CalculadoraParla\CalculadoraParla\obj\x86\Debug\CalculadoraParla.exe
+C:\Users\AlexWork2\Dropbox\Aplicaciones\Programas c# capellan\CalculadoraParla\CalculadoraParla\obj\x86\Debug\CalculadoraParla.pdb

@@ -1,0 +1,19 @@
+cmsig@msn.com
+nombre archivo:
+PP121993
+----------------------
+programa#1
+Leer una cantidad, mostrarla en letra
+ej: cantidad:189
+salida: ciento ochenta y nueve
+999,999,999(limite)
+-----------------------
+Programa #2
+Leer una cantidad y presente los billetes que equivalente al valor monetario
+de dicha cantidad
+ej:cantidad: 1500
+1 billete 1000
+1 billete 500
+*sin ciclo
+
+

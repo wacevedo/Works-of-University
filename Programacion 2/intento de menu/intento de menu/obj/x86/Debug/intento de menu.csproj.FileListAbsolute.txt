@@ -1,0 +1,5 @@
+F:\20121993\intento de menu\intento de menu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\20121993\intento de menu\intento de menu\bin\Debug\intento de menu.exe
+F:\20121993\intento de menu\intento de menu\bin\Debug\intento de menu.pdb
+F:\20121993\intento de menu\intento de menu\obj\x86\Debug\intento de menu.exe
+F:\20121993\intento de menu\intento de menu\obj\x86\Debug\intento de menu.pdb

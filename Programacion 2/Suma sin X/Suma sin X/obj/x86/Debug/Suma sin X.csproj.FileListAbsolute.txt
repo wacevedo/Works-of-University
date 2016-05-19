@@ -1,0 +1,9 @@
+C:\Users\User\AppData\Local\Temporary Projects\Suma sin X\bin\Debug\Suma sin X.exe
+C:\Users\User\AppData\Local\Temporary Projects\Suma sin X\bin\Debug\Suma sin X.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Suma sin X\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\Suma sin X\obj\x86\Debug\Suma sin X.exe
+C:\Users\User\AppData\Local\Temporary Projects\Suma sin X\obj\x86\Debug\Suma sin X.pdb
+F:\20121993\Suma sin X\Suma sin X\obj\x86\Debug\Suma sin X.exe
+F:\20121993\Suma sin X\Suma sin X\obj\x86\Debug\Suma sin X.pdb
+F:\20121993 program2\Suma sin X\Suma sin X\obj\x86\Debug\Suma sin X.exe
+F:\20121993 program2\Suma sin X\Suma sin X\obj\x86\Debug\Suma sin X.pdb

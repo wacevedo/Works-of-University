@@ -1,0 +1,174 @@
+
+Operadores aritméticos: 
+
++ = Suma 
+- = Resta 
+* = Multiplicación 
+/ = división 
+
+ejemplos:
+
+SELECT (cantidad,precio) as Total //muestra
+FROM venta
+WHERE (cantidad*precio>25000);
+
+SELECT count(*) //cuanta todos los productos
+FROM producto;
+
+SELECT count(*) //cuanta todos los productos de tipo leche
+FROM producto
+WHERE tipo='leche';
+
+SELECT p.producto_id,p.nombre_producto COUNT(pv.producto_id),SUM(pv.cantidad)
+FROM productoventa pv,producto p
+WHERE p.producto_id= pv.producto_id
+GROUP BY p.producto_id,p.nombre_producto;
+
+SELECT p.producto_id,p.nombre_producto COUNT(pv.producto_id),SUM(pv.cantidad)
+FROM productoventa pv,producto p,venta v
+WHERE p.producto_id= pv.producto_id and v.venta_id=pv.venta_id and 
+v.fecha BETWEEN 12/2/14 and 25/2/14
+GROUP BY p.producto_id,p.nombre_producto;
+
+
+
+Operadores de comparación y lógicos: 
+
+!> = Distinto 
+>= = Mayor o igual que 
+<= = Menor o igual que
+ = = Igual que 
+Like = Se utiliza para unir cadenas de caracteres. Propiedades: 
+   % = representa cualquier cadena de caracteres de 0 o mas caracteres. 
+   _= representa un único carácter cualquiera. 
+Not = Negación 
+And = y 
+   a and b 
+   Cierto si son ciertas a y b. 
+Or = o 
+   a or b 
+   Cierto si a o b son ciertas 
+Veamos un par de ejemplos: 
+
+Obtenemos los datos de los jugadores cuyos apellidos empiecen con una "S": 
+
+   SELECT APELLIDO 
+   FROM JUGADORES 
+   WHERE APELLIDO LIKE 'S%'; 
+
+Obtenemos aquellos apellidos que tengan una "R" en la segunda posición: 
+
+   SELECT APELLIDO 
+   FROM JUGADORES 
+   WHERE APELLIDO LIKE '_R*';
+
+Obtenemos aquellos apellidos que empiezan por "A" y tiene una "o" en su interior: 
+
+   SELECT APELLIDO 
+   FROM JUGADORES 
+   WHERE APELLDIOS LIKE 'A%O%';
+
+
+   SELECT COUNT (CONTENIDO?PROGRAMADO
+Comprobación con conjuntos de valores: 
+
+
+In= permite saber si una expresión pertenece o no a un conjunto de valores. 
+Between= permite saber si una expresión esta o no entre esos valores:
+
+
+Ejemplo: 
+
+   SELECT APELLIDOS 
+   FROM JUGADORES 
+   WHERE JUGADOR_NUM IN (10, 20);
+
+Selecciona los apellidos de los jugadores donde el número de jugador (Jugador_num) sea (In) o 10 o 20 
+
+   SELECT APELLIDOS 
+   FROM JUGADORES 
+   WHERE SALARIO NOT BETWEEN 15000000 AND 20000000;
+
+Selecciona los apellidos de los jugadores donde el salario de estos no este entre (Not Between) 15000000 y 20000000.
+
+Group By With Having
+HAVING is used to perform an action on groups created by GROUP BY similar to that of the WHERE clause 
+on rows in a basic SQL statement. The WHERE clause limits the rows evaluated. The HAVING clause limits the grouped rows 
+returned.
+
+GROUP BY With HAVING Clause
+	
+SELECT table_name, COUNT(*)
+FROM all_indexes
+GROUP BY table_name
+HAVING COUNT(*) > 1;
+
+SELECT table_name, COUNT(*)
+FROM all_indexes
+GROUP BY table_name
+HAVING COUNT(*) = 2;
+
+SELECT table_name, COUNT(*)
+FROM all_indexes
+GROUP BY table_name
+HAVING COUNT(*) BETWEEN 2 AND 3;
+
+
+
+SELECT COUNT (CONTENIDO_PROGRAMADO)
+FROM EVENTO
+WHERE FECHA BETWEEN TO_DATE ('XX/XX/XX','DD/MM/YYYY');
+
+
+SELECT CI.DIRECCION,cu.nombre_ciudad
+FROM CINE CI, CIUDADES CU 
+WHERE CI.ID_CIUDAD=CU.ID_CIUDAD 
+AND UPPER (cu.nombre_ciudad) IN ('LA VEGA','JARABACOA');
+
+SELECT CI.DIRECCION
+FROM CINE CI, CIUDADES CU
+WHERE CI.ID_CIUDAD=CU.ID_CIUDAD
+AND (UPPER(CU.NOMBRE_CIUDAD)='LA VEGA' OR UPPER(CU.NOMBRE_CIUDAD)='JARABACOA');
+
+5 SELECT
+MINIMO 2 TABLAS
+MINIMO 1 CONDICION
+SE UTILICEN HAVING, MIN, MAX, SUM, COUNT,
+Y UNA SEXTA USANDO 3 FUNCIONES DE GRUPO Y HAVING
+
+
+SELECT C.NOMBRE_CIUDAD, COUNT(CI.ID_CINE)
+FROM CIUDADES C, CINE CI
+WHERE C.ID_CIUDAD=CI.ID_CIUDAD 
+/*AND C.ID_CIUDAD=1*/
+GROUP BY C.NOMBRE_CIUDAD;
+
+SELECT PB.NOMBRE_PROV, COUNT(C.ID_CINE)
+FROM PROVINCIAS PB, CINE C,  CIUDADES CO
+WHERE PB.ID_PROVINCIA=CO.ID_PROVINCIA AND CO.ID_CIUDAD=C.ID_CIUDAD
+AND pb.nombre_prov!='SANTIAGO DE LOS CABALLEROS'
+GROUP BY PB.NOMBRE_PROV;
+
+SELECT CU.NOMBRE, COUNT(CA.ID_SALA)
+FROM CINE CU, SALAS CA
+WHERE CU.ID_CINE=CA.ID_CINE
+GROUP BY CU.NOMBRE
+HAVING COUNT(CA.ID_CINE) = 3;
+
+SELECT NP.TITULO, NP.AÑO
+FROM PELICULAS NP
+WHERE AÑO BETWEEN 2014 AND 2015;
+
+SELECT PB.NOMBRE_PROV, avg(C.ID_CINE)
+FROM PROVINCIAS PB, CINE C,  CIUDADES CO
+WHERE PB.ID_PROVINCIA=CO.ID_PROVINCIA AND CO.ID_CIUDAD=C.ID_CIUDAD
+AND pb.nombre_prov!='SANTIAGO DE LOS CABALLEROS'
+GROUP BY PB.NOMBRE_PROV;
+
+SELECT PV.NOMBRE_PROV, COUNT(E.ID_EVENTOS)
+FROM  PROVINCIAS PV, CIUDADES CI, CINE JC, SALAS S, EVENTOS E
+WHERE PV.ID_PROVINCIA = CI.ID_PROVINCIA
+AND CI.ID_CIUDAD = JC.ID_CIUDAD
+AND JC.ID_CINE = S.ID_CINE
+AND S.ID_SALA = E.ID_SALA
+GROUP BY PV.NOMBRE_PROV;

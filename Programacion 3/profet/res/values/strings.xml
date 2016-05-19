@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">profet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_segunda_">Segunda_Activity</string>
+    <string name="sActividad">Segundad Atividad</string>
+    <string name="reg_textV_pregunta">Pregunta</string>
+    <string name="reg_textV_respuesta">Respuesta</string>
+    <string name="reg_respuesta">Respuesta</string>
+    <string name="reg_pregunta">pregunta</string>
+    <string name="title_activity_prueba__buscar">Prueba_Buscar</string>
+
+</resources>

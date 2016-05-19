@@ -1,0 +1,17 @@
+Los temas que se hablaron en clase fueron:
+1- ¿Qué es un análisis?
+2-¿Qué es un sistema?
+3-¿Qué es un análisis de sistemas?
+4-¿Qué es un Diagrama De Flujo De Datos?
+5-Elementos del diagrama de flujo de datos.
+6-¿Qué función juegan dentro del análisis las encuestas y entrevistas? 
+
+
+//fecha c++
+
+http://www.taringa.net/posts/ciencia-educacion/15005577/Codigo-fuente-lenguaje-c-Calcula-dias-entre-dos-fech.html
+
+Algunos Libros Usados:
+Analisis y Diseño de sistema Sexta Edicion Kendall
+Ingeniería del software Séptima edición IAN SOMMERVILLE
+Sistemas Operativos Diseño e implementacion Segunda Edicion Andrew S. Tanenbaum, Albert S. Woodhull.

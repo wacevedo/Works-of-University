@@ -1,0 +1,6 @@
+
+Un centro de atención medica necesita tener el control de las consultas realizadas, los pacientes atendidos y los doctores que laboran en dicho centro, así como los internamientos que se produzcan en el mismo.
+Un DOCTOR debe tener ID, nombre y especialidad. 
+El PACIENTE debe tener un ID, nombre, apellido, dirección, edad, cédula y peso. 
+La HABITACIÓN debe tener ID, numero de habitación, capacidad y descripción. 
+Y la CONSULTA debe tener ID de consulta, ID de paciente, síntomas del paciente, diagnostico y tratamiento.

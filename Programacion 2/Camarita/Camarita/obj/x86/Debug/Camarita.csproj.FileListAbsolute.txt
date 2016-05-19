@@ -1,0 +1,98 @@
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\Camarita.exe
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\Camarita.pdb
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.Controls.dll
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.Video.dll
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.dll
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.Imaging.dll
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.Math.dll
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.Controls.xml
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.Video.xml
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.xml
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.Imaging.xml
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\bin\Debug\AForge.Math.xml
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\obj\x86\Debug\Camarita.Form1.resources
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\obj\x86\Debug\Camarita.Properties.Resources.resources
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\obj\x86\Debug\Camarita.exe
+c:\users\alexwork2\documents\visual studio 2010\Projects\Camarita\Camarita\obj\x86\Debug\Camarita.pdb
+F:\20121993\Camarita\Camarita\obj\x86\Debug\Camarita.exe
+F:\20121993\Camarita\Camarita\obj\x86\Debug\Camarita.pdb
+F:\20121993\Camarita\Camarita\bin\Debug\Camarita.exe
+F:\20121993\Camarita\Camarita\bin\Debug\Camarita.pdb
+F:\20121993\Camarita\Camarita\bin\Debug\AForge.dll
+F:\20121993\Camarita\Camarita\bin\Debug\AForge.Imaging.dll
+F:\20121993\Camarita\Camarita\bin\Debug\AForge.Math.dll
+F:\20121993\Camarita\Camarita\bin\Debug\AForge.Controls.xml
+F:\20121993\Camarita\Camarita\bin\Debug\AForge.Video.xml
+F:\20121993\Camarita\Camarita\bin\Debug\AForge.Video.DirectShow.xml
+F:\20121993\Camarita\Camarita\bin\Debug\AForge.xml
+F:\20121993\Camarita\Camarita\bin\Debug\AForge.Imaging.xml
+F:\20121993\Camarita\Camarita\bin\Debug\AForge.Math.xml
+F:\20121993\Camarita\Camarita\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\20121993\Camarita\Camarita\obj\x86\Debug\Camarita.Form1.resources
+F:\20121993\Camarita\Camarita\obj\x86\Debug\Camarita.Properties.Resources.resources
+F:\20121993\Camarita\Camarita\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\20121993\Camarita\Camarita\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.exe
+F:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.pdb
+F:\20121993 program2\Camarita\Camarita\bin\Debug\Camarita.exe
+F:\20121993 program2\Camarita\Camarita\bin\Debug\Camarita.pdb
+F:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.dll
+F:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Imaging.dll
+F:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Math.dll
+F:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Controls.xml
+F:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.xml
+F:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.DirectShow.xml
+F:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.xml
+F:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Imaging.xml
+F:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Math.xml
+F:\20121993 program2\Camarita\Camarita\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.Form1.resources
+F:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.Properties.Resources.resources
+F:\20121993 program2\Camarita\Camarita\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\20121993 program2\Camarita\Camarita\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.exe
+H:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.pdb
+G:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.exe
+G:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.pdb
+G:\20121993 program2\Camarita\Camarita\bin\Debug\Camarita.exe
+G:\20121993 program2\Camarita\Camarita\bin\Debug\Camarita.pdb
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.dll
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Imaging.dll
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Math.dll
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Controls.xml
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.xml
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.DirectShow.xml
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.xml
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Imaging.xml
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Math.xml
+G:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.Form1.resources
+G:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.Properties.Resources.resources
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.FFMPEG.dll
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.VFW.dll
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.FFMPEG.xml
+G:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.VFW.xml
+G:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.csprojResolveAssemblyReference.cache
+G:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.csproj.GenerateResource.Cache
+H:\20121993 program2\Camarita\Camarita\bin\Debug\Camarita.exe
+H:\20121993 program2\Camarita\Camarita\bin\Debug\Camarita.pdb
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.dll
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Imaging.dll
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Math.dll
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Controls.xml
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.xml
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.DirectShow.xml
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.FFMPEG.xml
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Video.VFW.xml
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.xml
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Imaging.xml
+H:\20121993 program2\Camarita\Camarita\bin\Debug\AForge.Math.xml
+H:\20121993 program2\Camarita\Camarita\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.Form1.resources
+H:\20121993 program2\Camarita\Camarita\obj\x86\Debug\Camarita.Properties.Resources.resources
+H:\20121993 program2\Camarita\Camarita\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\20121993 program2\Camarita\Camarita\obj\x86\Debug\GenerateResource.write.1.tlog

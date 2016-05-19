@@ -1,0 +1,82 @@
+select chr(68)
+from dual;
+
+select chr(33)
+from dual;
+
+select instr('WILSON ACEVEDO','A')
+FROM DUAL;
+
+select instr('PEDRO ARISTIDES ALEXANDRO','A')
+FROM DUAL;
+
+SELECT INSTR(APELLIDO, 'A')
+FROM CLIENTE;
+
+SELECT INSTR(APELLIDO, 'a')
+FROM CLIENTE
+WHERE INSTR(APELLIDO, 'a')=2;
+
+SELECT *
+FROM CLIENTE
+WHERE INSTR(APELLIDO, 'a')=2;
+
+SELECT LOWER('JOSE antonio')
+from dual;
+
+SELECT length('JOSE antonio')
+from dual;
+
+SELECT *
+FROM CLIENTE
+WHERE INSTR(UPPER(APELLIDO), 'A')=2;
+
+
+select rpad((apellido), 20-1)
+from cliente;
+
+select lpad((apellido), 20-1)
+from cliente;
+
+SELECT LTRIM('LA CASA DE LILA','LA')
+FROM DUAL;
+
+SELECT RTRIM('LA CASA DE LILA','LA')
+FROM DUAL;
+
+SELECT INSTR('RAMON FRANCISCO CARRASCO','A',1,3)
+FROM DUAL;
+
+SELECT REPLACE('RAMON FRANCISCO','FRANCISCO','MATIAS')
+FROM DUAL;
+
+SELECT REPLACE('047-000077-8','-')
+FROM DUAL;
+
+SELECT substr('WILSON',1,4)
+FROM DUAL;
+
+SELECT substr('047-0001459-8',
+instr('047-0001459-8','-')+1,
+LENGTH('047-0001459-8'))
+from dual;
+
+
+SELECT to_char(sysdate,'dd/mm/yyyy') 
+from dual;
+
+SELECT TO_CHAR(1000000, '999,999,999')
+FROM DUAL;
+
+SELECT DECODE(SUBSTR('047-2321436-8',1,3),'047', 'la Vega') 
+from dual;
+
+select nvl(null,0)
+from dual;
+
+select round(15.193,0)
+from dual;
+
+
+select trunc(sysdate)
+from dual;

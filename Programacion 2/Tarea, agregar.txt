@@ -1,0 +1,105 @@
+
+Tarea 2/6/2013 #primera exposicion.
+
+Crear métodos en la clase para;
+
+Leer datos
+
+Realizar cálculos (Ej; Calificación fina y letra)
+
+Mostrar todos los estudiantes (usando listas)
+
+Tarea 4/6/2013 #segunda exposición
+
+Calculadora parlante agregar:
+
+Porcentaje
+
+Potencia
+
+Logaritmos
+
+Almacenar en memoria
+
+Mcm y Mcd
+
+Puntos adicionales al que trabaje con clase.
+
+Tarea 9/6/14 #Tercera Expo
+
+Agregar al editor de texto
+
+Menu: y barra de Herramienta
+
+Edición:  
+
+Deshacer
+
+Rehacer
+
+Copiar
+
+Cortar
+
+Pegar
+
+Seleccionar todo
+
+Formato:
+
+Fuente
+
+Negrita
+
+Cursiva
+
+Subrayado
+
+1Color de fondo
+
+Párrafo:
+
+Alinear izquierda
+
+Alinear derecha
+
+Centrado
+
+binetas
+
+incluir barra de herramientas
+
+ 
+
+editor de imágenes
+
+agregar una funcionalidad aparte de las ke les pusieron
+
+
+reproductor mp3
+
+agregar barra de progreso
+
+guardar lista de canciones (Pistas)
+
+agregas favorito
+
+
+Navegador Web
+
+Agregar combo box(quitar tex box)
+
+Que aparesca las direeciones en el combo box
+
+Que se muestre siempre la dirección actual en el combo box
+
+
+Cámara web
+
+Agregar imagen por secuencia de tiempo (tipo cámara de seguridad)
+
+ 
+
+Crear un menú con todos los programas
+
+Entregar dia 16-7-14

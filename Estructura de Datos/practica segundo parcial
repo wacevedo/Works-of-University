@@ -1,0 +1,58 @@
+Ejercicios para practicar para el segundo parcial:
+Con la sentencia de selección If Else
+1.	 Realizar un programa en C 0 C++ que pida 3 números y los muestre en pantalla de menor a mayor.
+Si se cumple esta condición: 
+
+A) 
+if (num1<num2 && num1<num3) 
+if (num2<num3)
+               Desplegar por pantalla num1, num2 y num3
+Else Desplegar por pantalla num1, num3 y num2
+                B) 
+                else if (num2<num1 && num2<num3)
+                 if (num1<num3)
+
+              Desplegar por pantalla num2, num1 y num3
+Else  Desplegar por pantalla num2, num3 y num1
+               C)
+               else if (num3<num1 && num3<num2)
+               if (num1<num2)
+              
+              Desplegar por pantalla num3, num1 y num2
+Else Desplegar por pantalla num3, num2 y num1
+              Finalizar Programa
+2.	Realizar un programa en C 0 C++ que solo permita introducir las consonantes D y M
+Algoritmo del programa
+Paso 1 se declaran las librerías
+Pasos 2 se declara la función main
+Paso3 declara el tipo de datos que en este caso es de tipo char
+Paso 4 se lee la variable 
+Paso 5 preguntamos los siguiente: if (c=='D' || c=='M')
+Paso 6 si esta condición se cumple se despliega la palabra “Es correcto” de lo contrario “Es Incorrecto”
+Paso 7 Fin del programa
+
+
+
+
+
+
+Con la sentencia de selección Switch 
+3.	Sabiendo que un dado tiene 6 cara. Realizar un programa en C 0 C++ donde se pueda leer un numero de la cara del dado y nos muestre por pantalla en letra ese número de la cara opuesta al a que usted escribió. 
+
+Por ejemplo si digito el 3 debes salir en pantalla “el numero en la cara opuesta es el 4, y así sucesivamente. 
+
+Para que esto suceda debe de cumplirse la condición:  if ( numero >= 1 && numero <= 6 ) entra a la sentencia de selección switch y ejecuta lo demás
+
+4.	Realizar un programa en C 0 C++, donde se pida la entrada de la primera letra de un color y nos despliegue por pantalla el nombre completo del color, favor de ubicar más de 5 colores. 
+Ejemplo: 
+Digito la B 
+Sale por pantalla: Blanco. 
+
+Con el ciclo For 
+
+5.	Realizar un ejercicio en C 0 C++ que nos muestre por pantalla los números múltiplo de 5 desde el 25 hasta el 100
+6.	El mismo ejercicio anterior pero que me sume los múltiplo de 3, 4, 5 y nos muestre un total de la suma de ambos múltiplos. Es decir, va a realizar el cálculo de los múltiplos de res y los va a sumar desde el 25 hasta el 100, Luego lo del4 y después los del 5. 
+ Con el ciclo while 
+7.	Realizar un programa en C 0 C++ que simule el funcionamiento de una clave de acceso con su nombre de usuario y su contraseña, controlar que solo permita tres intentos, de lo contrario sale del programa.
+8.	Desarrollar el ejercicio 5 con while
+

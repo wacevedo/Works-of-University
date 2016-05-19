@@ -1,0 +1,9 @@
+I:\20121993\CalculadoraHablante\CalculadoraHablante\bin\Release\CalculadoraHablante.exe
+I:\20121993\CalculadoraHablante\CalculadoraHablante\bin\Release\CalculadoraHablante.pdb
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Release\ResolveAssemblyReference.cache
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Release\CalculadoraHablante.Form1.resources
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Release\CalculadoraHablante.Properties.Resources.resources
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Release\GenerateResource.read.1.tlog
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Release\GenerateResource.write.1.tlog
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Release\CalculadoraHablante.exe
+I:\20121993\CalculadoraHablante\CalculadoraHablante\obj\x86\Release\CalculadoraHablante.pdb

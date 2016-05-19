@@ -1,0 +1,7 @@
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\obj\Debug\howto_color_tone.Properties.Resources.resources
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\obj\Debug\howto_color_tone.csproj.GenerateResource.Cache
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\obj\Debug\PicColorSetter.Form1.resources
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\bin\Debug\PicColorSetter.exe
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\bin\Debug\PicColorSetter.pdb
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\obj\Debug\PicColorSetter.exe
+C:\Users\Gull\Downloads\Compressed\howto_color_tone_2\howto_color_tone\obj\Debug\PicColorSetter.pdb

@@ -1,0 +1,14 @@
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Sesion\bin\Debug\Sesion.dll
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Sesion\bin\Debug\Sesion.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Sesion\bin\Debug\Dominio.dll
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Sesion\bin\Debug\Dominio.pdb
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Sesion\obj\Debug\Sesion.dll
+C:\Users\Pedro\Documents\Visual Studio 2010\Projects\2 Visual\2 Examen Final\MainMenu\Sesion\obj\Debug\Sesion.pdb
+C:\20130253-20121993\MainMenu\Sesion\bin\Debug\Sesion.dll
+C:\20130253-20121993\MainMenu\Sesion\bin\Debug\Sesion.pdb
+C:\20130253-20121993\MainMenu\Sesion\bin\Debug\Dominio.dll
+C:\20130253-20121993\MainMenu\Sesion\bin\Debug\Dominio.pdb
+C:\20130253-20121993\MainMenu\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+C:\20130253-20121993\MainMenu\Sesion\obj\Debug\Sesion.dll
+C:\20130253-20121993\MainMenu\Sesion\obj\Debug\Sesion.pdb

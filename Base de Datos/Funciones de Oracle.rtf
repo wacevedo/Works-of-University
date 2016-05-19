@@ -1,0 +1,228 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang7178{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue255;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\b\f0\fs22\lang10 EXAMEN DE LADORATORIO\tab\tab JUEVES 31\par
+EXPOSICION DE PROYECTO\tab\tab VIERNES 01\par
+EXAMEN DE TEORIA\tab\tab\tab VIERNES 08 \par
+\b0\par
+Las funciones de manejo de caracteres alfanum\'e9ricos aceptan argumentos de tipo caracter y retornan caracteres o valores num\'e9ricos.\par
+\par
+Las siguientes son algunas de las funciones que ofrece Oracle para trabajar con cadenas de caracteres:\par
+\par
+\b - chr(x): \b0 retorna un caracter equivalente al c\'f3digo enviado como argumento "x". Ejemplo:\par
+\par
+ select chr(65) from dual;-- retorna 'A'.\par
+ select chr(100) from dual;-- retorna 'd'.\par
+\b - concat\b0 (cadena1,cadena2): concatena dos cadenas de caracteres; es equivalente al operador ||. Ejemplo:\par
+\par
+ select concat('Buenas',' tardes') from dual;--retorna 'Buenas tardes'.\par
+\b - initcap\b0 (cadena): retorna la cadena enviada como argumento con la primera letra (letra capital) de cada palabra en may\'fascula. Ejemplo:\par
+\par
+ select initcap('buenas tardes alumno') from dual;--retorna 'Buenas Tardes Alumno'.\par
+\b - lower\b0 (cadena): retorna la cadena enviada como argumento en min\'fasculas. "lower" significa reducir en ingl\'e9s. Ejemplo:\par
+\par
+ select lower('Buenas tardes ALUMNO') from dual;--retorna "buenas tardes alumno".\par
+\b - upper\b0 (cadena): retorna la cadena con todos los caracteres en may\'fasculas. Ejemplo:\par
+\par
+ select upper('{{\field{\*\fldinst{HYPERLINK www.oracle.com }}{\fldrslt{www.oracle.com\ul0\cf0}}}}\f0\fs22 ') from dual;-- '{{\field{\*\fldinst{HYPERLINK WWW.ORACLE.COM }}{\fldrslt{WWW.ORACLE.COM\ul0\cf0}}}}\f0\fs22 '\par
+\b - lpad\b0 (cadena,longitud,cadenarelleno): retorna la cantidad de caracteres especificados por el argumento "longitud", de la cadena enviada como primer argumento (comenzando desde el primer caracter); si "longitud" es mayor que el tama\'f1o de la cadena enviada, rellena los espacios restantes con la cadena enviada como tercer argumento (en caso de omitir el tercer argumento rellena con espacios); el relleno comienza desde la izquierda. Ejemplos:\par
+\par
+ select lpad('alumno',10,'xyz') from dual;-- retorna 'xyzxalumno'\par
+ select lpad('alumno',4,'xyz') from dual;-- retorna 'alum'\par
+\b - rpad\b0 (cadena,longitud,cadenarelleno): retorna la cantidad de caracteres especificados por el argumento "longitud", de la cadena enviada como primer argumento (comenzando desde el primer caracter); si "longitud" es mayor que el tama\'f1o de la cadena enviada, rellena los espacios restantes con la cadena enviada como tercer argumento (en caso de omitir el tercer argumento rellena con espacios); el relleno comienza desde la derecha (\'faltimo caracter). Ejemplos:\par
+\par
+ select rpad('alumno',10,'xyz') from dual;-- retorna 'alumnoxyzx'\par
+ select rpad('alumno',4,'xyz') from dual;-- retorna 'alum'\par
+\b - ltrim\b0 (cadena1,cadena2): borra todas las ocurrencias de "cadena2" en "cadena1", si se encuentran al comienzo; si se omite el segundo argumento, se eliminan los espacios. Ejemplo:\par
+\par
+ select ltrim('la casa de la cuadra','la') from dual;-- ' casa de la cuadra'\par
+ select ltrim(' es la casa de la cuadra','la') from dual;-- no elimina ning\'fan caracter\par
+ select ltrim('  la casa') from dual;-- 'la casa'\par
+\b - rtrim\b0 (cadena1,cadena2): borra todas las ocurrencias de "cadena2" en "cadena1", si se encuentran por la derecha (al final de la cadena); si se omite el segundo argumento, se borran los espacios. Ejemplo:\par
+\par
+ select rtrim('la casa lila','la') from dual;-- 'la casa li'\par
+ select rtrim('la casa lila    ') from dual; --'la casa lila'\par
+\b - trim\b0 (cadena): retorna la cadena con los espacios de la izquierda y derecha eliminados. "Trim" significa recortar. Ejemplo:\par
+\par
+select trim('   oracle     ') from dual;--'oracle'\par
+\b - replace\b0 (cadena,subcade1,subcade2): retorna la cadena con todas las ocurrencias de la subcadena de reemplazo (subcade2) por la subcadena a reemplazar (subcae1). Ejemplo:\par
+\par
+ select replace('xxx.oracle.com','x','w') from dual;\par
+retorna "{{\field{\*\fldinst{HYPERLINK www.oracle.com' }}{\fldrslt{www.oracle.com'\ul0\cf0}}}}\f0\fs22 .\par
+\par
+\b - substr\b0 (cadena,inicio,longitud): devuelve una parte de la cadena especificada como primer argumento, empezando desde la posici\'f3n especificada por el segundo argumento y de tantos caracteres de longitud como indica el tercer argumento. Ejemplo:\par
+\par
+select substr('www.oracle.com ',1,10) from dual;-- '{{\field{\*\fldinst{HYPERLINK www.oracle }}{\fldrslt{www.oracle\ul0\cf0}}}}\f0\fs22 '\par
+select substr('{{\field{\*\fldinst{HYPERLINK www.oracle.com',5,6 }}{\fldrslt{www.oracle.com',5,6\ul0\cf0}}}}\f0\fs22 ) from dual;-- 'oracle'\par
+\b - length\b0 (cadena): retorna la longitud de la cadena enviada como argumento. "lenght" significa longitud en ingl\'e9s. Ejemplo:\par
+\par
+ select length('{{\field{\*\fldinst{HYPERLINK www.oracle.com }}{\fldrslt{www.oracle.com\ul0\cf0}}}}\f0\fs22 ') from dual;-- devuelve 14.\par
+\b - instr \b0 (cadena,subcadena): devuelve la posici\'f3n de comienzo (de la primera ocurrencia) de la subcadena especificada en la cadena enviada como primer argumento. Si no la encuentra retorna 0. Ejemplos:\par
+SELECT INSTR\lang1033  ('ESTELA ISABEL', 'A,2')\par
+FROM DUAL; // EL DOS ES PARA LA POSICION.\par
+\par
+SELECT INSTR(NOMBRE,  'A')\par
+FORM ESTUDIANTE;\par
+\par
+SELECT * \par
+FROM ESTUDIANTE\par
+WHERE INSTR (NOMBRE,  'A') = 2;\par
+\par
+SELECT INTSTR ('RAMON FRANCISCO CARRASCO', 1,3) \par
+FROM DUAL; // EL UNO ES PARA QUE COMIENCE EN LA POSICION 1 Y EL TRES PARA QUE ME TIRE LA POSICION DE LA A # 3.\par
+\lang10\par
+ select instr('Jorge Luis Borges','or') from dual;-- 2\par
+ select instr('Jorge Luis Borges','ar') from dual;-- 0, no se encuentra\par
+\b - translate(): \b0 reemplaza cada ocurrencia de una serie de caracteres con otra serie de acracteres. La diferencia con "replace" es que aquella trabaja con cadenas de caracteres y reemplaza una cadena completa por otra, en cambio "translate" trabaja con caracteres simples y reemplaza varios. En el siguiente ejemplo se especifica que se reemplacen todos los caracteres "O" por el caracter "0", todos los caracteres "S" por el caracter "5" y todos los caracteres "G" por "6":\par
+\par
+ select translate('JORGE LUIS BORGES','OSG','056') from dual;--'J0R6E LUI5 B0R6E5'\par
+Se pueden emplear estas funciones enviando como argumento el nombre de un campo de tipo caracter.\par
+\par
+\b Funciones de conversion\par
+To_Char\par
+\b0 Convierte una fecha a una cadena o un n\'famero con el formato especificado.\par
+\par
+TO_CHAR(date1 [,fmt]);\par
+\par
+TO_CHAR(number1 [,fmt])\par
+Si ejecutamos:\par
+SELECT TO_CHAR(sysdate) FROM DUAL;\par
+Devuelve:\par
+15-JUN-01\par
+Si ejecutamos:\par
+SELECT TO_CHAR(sysdate, 'dd/mm/yyyy') FROM DUAL;\par
+Devuelve:\par
+15/06/2001\par
+Si ejecutamos:\par
+SELECT TO_CHAR(sysdate,'Mon') FROM DUAL;\par
+Devuelve el nombre corto del mes:\par
+Jun\par
+Si ejecutamos:\par
+SELECT TO_CHAR(sysdate, 'Month') FROM DUAL;\par
+Devuelve el nombre largo del mes:\par
+Junio\par
+Si ejecutamos:\par
+SELECT TO_CHAR(sysdate, 'DDD') FROM DUAL;\par
+Devuelve los 3 digitos del dia del a\'f1o:\par
+058\par
+Si ejecutamos:\par
+SELECT TO_CHAR(123.456, '09999') FROM DUAL;\par
+Devuelve:\par
+00123\par
+Si ejecutamos:\par
+SELECT TO_CHAR(123.456, '09999.9') FROM DUAL;\par
+Devuelve:\par
+00123.5\par
+Si ejecutamos:\par
+SELECT TO_CHAR(123456, 'FM999,999,999') FROM DUAL;\par
+Devuelve:\par
+123,456\par
+\b\par
+To_Number\par
+\b0 Convierte una cadena en un valor de tipo NUMBER. Ver en TO_CHAR ejemplos de formato.\par
+\par
+TO_NUMBER(char [,fmt])\par
+Si ejecutamos:\par
+SELECT TO_NUMBER('123') FROM DUAL;\par
+Devuelve:\par
+123\par
+\par
+\b To_Date\par
+\b0 Convierte una cadena en un valor de tipo DATE. Ver en TO_CHAR ejemplos de formato.\par
+\par
+TO_DATE(char [,fmt])\par
+Si ejecutamos:\par
+SELECT TO_DATE('31/10/2007','DD/MM/YYYY') FROM DUAL;\par
+Devuelve:\par
+31/10/2007\par
+\par
+\b Advanced Functions\par
+NVL\par
+\b0 Si expr1 es nulo, devuelve expr2. Si expr1 no es nulo, devuelve expr1. Los argumentos pueden ser de cualquier tipo.\par
+\par
+NVL(expr1, expr2))\par
+Si ejecutamos:\par
+SELECT NVL(ESTADO,0) FROM T_PEDIDOS;\par
+Devuelve:\par
+1\par
+2\par
+0\par
+1\par
+...\par
+\b\par
+DECODE\par
+\b0 Traduce una expresi\'f3n a un valor de retorno. Si expr es igual a value1, la funci\'f3n devuelve Return1. Si expr es igual a value2, la funci\'f3n devuelve Return2. Y asi sucesivamente. Si expr no es igual a ningun valor la funcion devuelve el valor por defecto.\par
+\par
+DECODE(expr, value1 [, return1, value2, return2....,] default )\par
+Si ejecutamos:\par
+SELECT DECODE(ESTADO,0,'bien',1,'regular','mal') FROM T_PEDIDOS;\par
+Devuelve:\par
+bien\par
+bien\par
+regular\par
+mal\par
+...\par
+\b CASE\par
+\b0 Evalua diferentes expresiones para dar un valor de salida.\par
+\par
+CASE WHEN expr1 THEN val1 WHEN expr2 THEN val2 ... ELSE valn END\par
+Si ejecutamos:\par
+SELECT CASE WHEN ESTADO<=0 THEN 'bien' WHEN ESTADO>=1 \par
+AND ESTADO<=5 THEN 'regular' ELSE 'mal' END \par
+FROM T_PEDIDOS;\par
+Devuelve:\par
+bien\par
+bien\par
+regular\par
+mal\par
+...\par
+\b Funciones Matematicas\par
+\b0 Las funciones matem\'e1ticas realizan operaciones con expresiones num\'e9ricas y retornan un resultado, operan con tipos de datos num\'e9ricos.\par
+\par
+Las funciones num\'e9ricas aceptan par\'e1metros de entrada de tipo num\'e9rico y retornan valores num\'e9ricos.\par
+\par
+Oracle tiene algunas funciones para trabajar con n\'fameros. Aqu\'ed presentamos algunas.\par
+\par
+- abs(x): retorna el valor absoluto del argumento "x". Ejemplo:\par
+\par
+ select abs(-20) from dual;--retorna 20.\par
+La tabla dual es una tabla virtual que existe en todas las Bases de datos Oracle.\par
+\par
+- ceil(x): redondea a entero, hacia arriba, el argumento "x". Ejemplo:\par
+\par
+ select ceil(12.34) from dual;--retorna 13.\par
+- floor(x): redondea a entero, hacia abajo, el argumento "x". Ejemplo:\par
+\par
+ select floor(12.34) from dual; --12\par
+- mod(x,y): devuelve el resto de la divisi\'f3n x/y. Ejemplos:\par
+\par
+ select mod(10,3) from dual;--retorna 1.\par
+ select mod(10,2) from dual;--retorna 0.\par
+- power(x,y): retorna el valor de "x" elevado a la "y" potencia. Ejemplo:\par
+\par
+ select power(2,3) from dual;--retorna 8.\par
+- round(n,d): retorna "n" redondeado a "d" decimales; si se omite el segundo argumento, redondea todos los decimales. Si el segundo argumento es positivo, el n\'famero de decimales es redondeado seg\'fan "d"; si es negativo, el n\'famero es redondeado desde la parte entera seg\'fan el valor de "d". Ejemplos:\par
+\par
+ select round(123.456,2) from dual;-- retorna "123.46", es decir, redondea desde el segundo decimal.\par
+ select round(123.456,1) from dual;-- 123.5, es decir, redondea desde el primer decimal.\par
+ select round(123.456,-1) from dual;-- 120, redondea desde el primer valor entero (hacia la izquierda).\par
+ select round(123.456,-2) from dual;-- 100, redondea desde el segundo valor entero (hacia la izquierda).\par
+ select round(123.456) from dual;-- 123.\par
+- sign(x): si el argumento es un valor positivo, retorna 1, si es negativo, devuelve -1 y 0 si es 0. Ejemplo:\par
+\par
+ select sign(-120) from dual;--retorna -1\par
+ select sign(120) from dual;--retorna 1\par
+- trunc(n,d): trunca un n\'famero a la cantidad de decimales especificada por el segundo argumento. Si se omite el segundo argumento, se truncan todos los decimales. Si "d" es negativo, el n\'famero es truncado desde la parte entera. Ejemplo:\par
+\par
+ select trunc(1234.5678,2) from dual;--retorna 1234.56\par
+ select trunc(1234.5678,-2) from dual;--retorna 1200\par
+ select trunc(1234.5678,-1) from dual;--retorna 1230\par
+ select trunc(1234.5678) from dual;--retorna 1234\par
+- sqrt(x): devuelve la raiz cuadrada del valor enviado como argumento. Ejemplo:\par
+\par
+ select sqrt(9) from dual;--retorna 3\par
+Oracle dispone de funciones trigonom\'e9tricas que retornan radianes, calculan seno, coseno, inversas, etc.: acos, asin, atan, atan2, cos, cosh, exp, ln, log, sin, sinh, tan, tanh. No las veremos en detalle.\par
+\par
+Se pueden emplear las funciones matem\'e1ticas enviando como argumento el nombre de un campo de tipo num\'e9rico.\par
+}
+ 

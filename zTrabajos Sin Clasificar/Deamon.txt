@@ -1,0 +1,12 @@
+public class EjemploThred extends Thread {
+
+this.setDaemon(true);
+
+public void run() {
+//Aqui se pone lo que se quiere que haga el hilo.
+}
+
+public static void main (String args[]) {
+EjemploThread uno = new EjemploThread();
+uno.start();
+}

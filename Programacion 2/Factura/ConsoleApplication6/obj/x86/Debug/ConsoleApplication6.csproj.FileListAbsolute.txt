@@ -1,0 +1,12 @@
+F:\20121993\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+F:\20121993\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+F:\20121993\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\20121993\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+F:\20121993\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+F:\20121993 program2\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+F:\20121993 program2\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+F:\20121993 program2\Factura\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+F:\20121993 program2\Factura\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+F:\20121993 program2\Factura\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+F:\20121993 program2\Factura\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+F:\20121993 program2\Factura\ConsoleApplication6\obj\x86\Debug\ResolveAssemblyReference.cache

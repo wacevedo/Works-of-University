@@ -1,0 +1,36 @@
+G:\20121993\EditorText\EditorText\bin\Debug\EditorText.exe
+G:\20121993\EditorText\EditorText\bin\Debug\EditorText.pdb
+G:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.Form1.resources
+G:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.Properties.Resources.resources
+G:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.exe
+G:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.pdb
+H:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.exe
+H:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.pdb
+H:\20121993\EditorText\EditorText\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.Form1.resources
+H:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.Properties.Resources.resources
+H:\20121993\EditorText\EditorText\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\20121993\EditorText\EditorText\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\20121993\EditorText\EditorText\bin\Debug\EditorText.exe
+H:\20121993\EditorText\EditorText\bin\Debug\EditorText.pdb
+F:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.exe
+F:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.pdb
+I:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.exe
+I:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.pdb
+I:\20121993\EditorText\EditorText\bin\Debug\EditorText.exe
+I:\20121993\EditorText\EditorText\bin\Debug\EditorText.pdb
+I:\20121993\EditorText\EditorText\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.Form1.resources
+I:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.Properties.Resources.resources
+I:\20121993\EditorText\EditorText\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\20121993\EditorText\EditorText\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\20121993\EditorText\EditorText\bin\Debug\EditorText.exe
+F:\20121993\EditorText\EditorText\bin\Debug\EditorText.pdb
+F:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.Form1.resources
+F:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.Properties.Resources.resources
+F:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.csproj.GenerateResource.Cache
+F:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.csprojResolveAssemblyReference.cache
+G:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.csprojResolveAssemblyReference.cache
+G:\20121993\EditorText\EditorText\obj\x86\Debug\EditorText.csproj.GenerateResource.Cache
+F:\Programacion 2\EditorText\EditorText\obj\x86\Debug\EditorText.exe
+F:\Programacion 2\EditorText\EditorText\obj\x86\Debug\EditorText.pdb

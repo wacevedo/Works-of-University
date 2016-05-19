@@ -1,0 +1,45 @@
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\PlantillaBase de datos.exe
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\PlantillaBase de datos.pdb
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.estudiantes.resources
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.lenguaje.resources
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.Properties.Resources.resources
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.proyecto.resources
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.exe
+C:\mta\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.exe
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\PlantillaBase de datos.exe
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\PlantillaBase de datos.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.Consulta.resources
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.Registro.resources
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\Entidades.dll
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\Entidades.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.Principal.resources
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.csproj.ResolveComReference.cache
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\ClassLibrary1.dll
+C:\Users\pc\Documents\Visual Studio 2010\Projects\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\ClassLibrary1.pdb
+C:\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.csproj.ResolveComReference.cache
+C:\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.exe
+C:\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.pdb
+C:\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.Consulta.resources
+C:\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.Principal.resources
+C:\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.Properties.Resources.resources
+C:\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase_de_datos.Registro.resources
+C:\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\PlantillaBase de datos.exe
+C:\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\PlantillaBase de datos.pdb
+C:\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\ClassLibrary1.dll
+C:\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\Entidades.dll
+C:\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\ClassLibrary1.pdb
+C:\PlantillaBase de datos\PlantillaBase de datos\bin\Debug\Entidades.pdb
+C:\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.csprojResolveAssemblyReference.cache
+C:\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.csproj.GenerateResource.Cache
+C:\Users\Willson Acevedo\Documents\Programacion 2\melani\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.csproj.ResolveComReference.cache
+C:\Users\Willson Acevedo\Documents\Programacion 2\melani\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.exe
+C:\Users\Willson Acevedo\Documents\Programacion 2\melani\PlantillaBase de datos\PlantillaBase de datos\obj\x86\Debug\PlantillaBase de datos.pdb

@@ -1,0 +1,55 @@
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Menu ProgramacionII.exe
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Menu ProgramacionII.pdb
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Calculadora.exe
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Calculadora.pdb
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\Menu_ProgramacionII.Form1.resources
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\Menu_ProgramacionII.Properties.Resources.resources
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\Menu ProgramacionII.exe
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\Menu ProgramacionII.pdb
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Editor de Texto.exe
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Editor de Texto.pdb
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\NavegadorWeb.exe
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\NavegadorWeb.pdb
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Aforge_Web_Cam.exe
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.dll
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.dll
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Aforge_Web_Cam.pdb
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.xml
+C:\Users\Jimmy Lora\documents\visual studio 2010\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.xml
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\Menu ProgramacionII.exe
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\Menu ProgramacionII.pdb
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Menu ProgramacionII.exe
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Menu ProgramacionII.pdb
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Aforge_Web_Cam.exe
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Calculadora.exe
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Editor de Texto.exe
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\NavegadorWeb.exe
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\WindowsFormsApplication1.exe
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.DirectShow.dll
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.VFW.dll
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.dll
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AxInterop.WMPLib.dll
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Interop.WMPLib.dll
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.dll
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Aforge_Web_Cam.pdb
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Calculadora.pdb
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\Editor de Texto.pdb
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\WindowsFormsApplication1.pdb
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\NavegadorWeb.pdb
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.DirectShow.xml
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.VFW.xml
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.Video.xml
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\AForge.xml
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\Menu ProgramacionII.csprojResolveAssemblyReference.cache
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\Menu_ProgramacionII.Form1.resources
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\Menu_ProgramacionII.Properties.Resources.resources
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\obj\x86\Debug\Menu ProgramacionII.csproj.GenerateResource.Cache
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\PicColorSetter.exe
+F:\Projects\Menu ProgramacionII\Menu ProgramacionII\bin\Debug\PicColorSetter.pdb

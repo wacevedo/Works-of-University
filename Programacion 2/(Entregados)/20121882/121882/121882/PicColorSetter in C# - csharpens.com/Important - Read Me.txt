@@ -1,0 +1,19 @@
+Plz Note that this application is not ready. I code this for my own learning.
+
+If you have some issues with it plz contact me on -> www.csharpens.com/sajjadgull
+
+Or you can also check my own other applications -> http://www.csharpens.com/p/sajjad-gull-applications.html
+
+for explanation of this app : http://www.csharpens.com/ImageAttributes
+
+Facebook.com/Csharpens.com
+Facebook.com/founderofWSC
+
+
+/*
+ * Copyright by Sajjad Gul : http://www.csharpens.com/sajjadgull
+ * Dated : 22-March-2014
+ * for explanation & other issues : http://www.csharpens.com/ImageAttributes
+ * 
+ * [You are allowed to edit this code as per your needs]
+ */

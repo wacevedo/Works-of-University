@@ -1,0 +1,12 @@
+G:\20121993\BaseDatosPA\BaseDatosPA\bin\Debug\BaseDatosPA.exe
+G:\20121993\BaseDatosPA\BaseDatosPA\bin\Debug\BaseDatosPA.pdb
+G:\20121993\BaseDatosPA\BaseDatosPA\bin\Debug\Dominio.dll
+G:\20121993\BaseDatosPA\BaseDatosPA\bin\Debug\Sesion.dll
+G:\20121993\BaseDatosPA\BaseDatosPA\bin\Debug\Dominio.pdb
+G:\20121993\BaseDatosPA\BaseDatosPA\bin\Debug\Sesion.pdb
+G:\20121993\BaseDatosPA\BaseDatosPA\obj\x86\Debug\BaseDatosPA.csprojResolveAssemblyReference.cache
+G:\20121993\BaseDatosPA\BaseDatosPA\obj\x86\Debug\BaseDatosPA.BaseDato.resources
+G:\20121993\BaseDatosPA\BaseDatosPA\obj\x86\Debug\BaseDatosPA.Properties.Resources.resources
+G:\20121993\BaseDatosPA\BaseDatosPA\obj\x86\Debug\BaseDatosPA.csproj.GenerateResource.Cache
+G:\20121993\BaseDatosPA\BaseDatosPA\obj\x86\Debug\BaseDatosPA.exe
+G:\20121993\BaseDatosPA\BaseDatosPA\obj\x86\Debug\BaseDatosPA.pdb

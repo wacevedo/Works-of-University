@@ -1,0 +1,5 @@
+F:\20121993 program2\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\20121993 program2\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\20121993 program2\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\20121993 program2\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+F:\20121993 program2\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb

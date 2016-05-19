@@ -1,0 +1,7 @@
+Nombre: Alexandro Abreu Suriel
+Matricula: 2012-1523
+Asignatura: Estructura de Datos UCATECI
+Profesor: Jose Ramon Capellan
+Tema: Animacion de Pila.
+
+Realizado en la ciudad de La Vega el 17 de Julio del 2014.
